@@ -4,10 +4,33 @@
 	<end-date>2014-10-29</end-date>
 	<location>Monterey, California</location>
 	<venue>Monterey Conference Center</venue>
-	<venue>Portola Hotel & Spa</venue>
+	<venue>Portola Hotel &amp; Spa</venue>
 	<venue>Monterey Marriott</venue>
 
-	<organizer><name>Information Today, Inc.</name></organizer>
+	<organizer><name>Information Today, Inc.</name><credit>Organized and Produced By</credit></organizer>
+
+	<organizer><name>Jane Dysart</name><affiliation><organization>Dysart &amp; Jones Associates</organization></affiliation><credit>Program Chair</credit></organizer>
+
+
+	<organizer><name>Stephen Abram</name><affiliation><organization>Dysart &amp; Jones Associates</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+	<organizer><name>Marshall Breeding</name><affiliation><organization>Library Technology Guides</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Darlene Fichter</name><affiliation><organization>University of Saskatchewan</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Deb Hunt</name><affiliation><organization>Mechanics’ Institute Library</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>David Lee King</name><affiliation><organization>Topeka &amp; Shawnee County Public Library</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Joe Murphy</name><affiliation><organization>Innovative Interfaces Inc.</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Marydee Ojala</name><affiliation><title>Editor-in-Chief</title><organization>OnlineSearcher</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Donna Schneeder</name><affiliation><organization>Library of Congress</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Patrick Sweeney</name><affiliation><organization>Sunnyvale Public Library</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
+
+<organizer><name>Jeff Wisniewski</name><affiliation><organization>University of Pittsburgh</organization></affiliation><credit>Organizing and Review Committee</credit></organizer>
 
 	<sponsor><type>Gold Sponsor</type><name>EBSCO</name></sponsor>
 
@@ -26,14 +49,23 @@
 
 	<sponsor><type>Association Sponsor</type><name>Association of Independent Information Professionals</name></sponsor>
 
-	
+	<description>
+		<heading>Driving Our Community's Digital Destiny</heading>
+	<![CDATA[  
+	<p>Today’s Internet Librarians are definitely driving the digital directions of their communities, whether those are academic campuses, municipalities, museums, law firms, or non-profit organizations. Many Internet Librarians are taking a leadership role in their communities and illustrating possible digital directions to their communities. They are participating in digital community outreach, digital learning initiatives, and econtent curation. Others are building partnerships with open/transparent government initiatives, museums and art galleries, MOOCs, and more. </p>
+	<p>This year’s Internet Librarian 2014 focuses on the exciting, creative and innovative ways that librarians are not just participating, but driving, the digital directions in their communities. It reflects the strategies, services and tools that enable librarians to engage, connect and build relationships with their communities. It discusses mobile devices and electronic collections and how their use is changing the spaces and services in libraries. It highlights the skills, competencies, and roles that are evolving to deal with all these changes in our communities, campuses and organizations. Hear about leading edge tools and techniques for grabbing the attention of your audience and community at Information Today’s 18th annual Internet Librarian.</p> 
+	<p>Join us at the most comprehensive conference for library and information professionals interested in technology to discover the insights, strategies and practices that allow us to push the envelope in expanding the net, managing libraries and digital information, and enhancing the information sharing and learning experience of people in our communities. Internet Librarian 2014 provides attendees with lots of opportunities to meet and hear from leading “movers and shakers” in the information industry in all types of environments —leaders in the information industry are integrating content and delighting their clients, organizing and managing digital content in creative ways, setting the context for excellence in information utilization in their organizations, revolutionizing the roles of info pros, building strong collaborative communities among their customers and colleagues, and using new technologies in exciting ways. </p> ]]> </description>
 
-	<description>Information Today Inc., a key provider of technology conferences for more than thirty years, is pleased to announce the 18th annual Internet Librarian— the ONLY conference for information professionals who are using, developing, and embracing Internet and Web-based strategies in their roles as information architects and navigators, webmasters and web managers, content evaluators and curators, digital managers, developers and integrators, taxonomists, searchers, community builders and managers, information providers, trainers, guides, and more. This comprehensive conference and exhibition offers a wide-ranging program designed to meet the needs of librarians, information managers, systems professionals, researchers, content managers and information specialists. Internet Librarian 2014 caters to all interests and all levels of knowledge with five simultaneous tracks, including Internet@Schools, plus many workshop and networking opportunities.</description>
+
+	<description><heading>Conference Overview</heading>
+	<![CDATA[ 
+	<p>Information Today Inc., a key provider of technology conferences for more than thirty years, is pleased to announce the 18th annual Internet Librarian— the ONLY conference for information professionals who are using, developing, and embracing Internet and Web-based strategies in their roles as information architects and navigators, webmasters and web managers, content evaluators and curators, digital managers, developers and integrators, taxonomists, searchers, community builders and managers, information providers, trainers, guides, and more. This comprehensive conference and exhibition offers a wide-ranging program designed to meet the needs of librarians, information managers, systems professionals, researchers, content managers and information specialists. Internet Librarian 2014 caters to all interests and all levels of knowledge with five simultaneous tracks, including Internet@Schools, plus many workshop and networking opportunities.</p>]]>
+	</description>
 	
 
 	<session>
-		<start-time></start-time>
-		<end-time></end-time>
+		<start-time>0900</start-time>
+		<end-time>1630</end-time>
 		<name>Searchers Academy: Hacking Search</name>
 		<description>
 		<![CDATA[ 
