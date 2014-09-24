@@ -1,0 +1,74 @@
+         T
+
+
+
+
+      How to integrate th!e ILS system, Socia!l Media and Subject!      “Practice Makes Pe!rfect” - Building I!nterview Skills Sp!eed-
+      Guides                                                            Dating Style
+
+      Cindy	Li,	University	of	Regina                                    Kate	M.	Johnson,	Data	Consultant,	MaRS	Data	Catalyst,	MaRS
+      There	are	many	different	ways	to	manage	subject	data	in	library	  Discover	District
+      system.	But	how	to	integrate	them,	make	them	work	together	       Information	professionals	are	dynamic	and	diverse	in	their
+      and	have	one	stop	access	for	patrons	is	a	big	challenge.		This	   knowledge	and	skills,	which	means	that	effective	communication
+      poster	will	use	one	example	–GIS	(Geographic	information	         in	a	job	interview	is	crucial	to	landing	the	position.	The	“Prac-
+      system)	research	project	to	show	the	steps.	The	display	will	     tice	Makes	Perfect”	project	draws	upon	a	speed-dating	format
+
+      include	how	we	export	data	from	Voyager,	import	into	Pinterest,	 and	provides	participants	with	a	safe	and	friendly	environment
+      and	then	link	to	LibGuides	which	is	followed	by	twitter	and	links	 to	build	their	confidence	and	experience	in	answering	interview
+      with	LibCal.	Faculty	and	students	will	access	GIS	resource	and	   questions.	Participants	have	a	set	time	to	answer	typical	inter-
+      related	event	in	one	place.	It	is	helpful	for	research	and	study. view	questions	in	pairs,	rotating	to	a	new	partner	after	receiving
+                                                                        feedback.	Learn	how	to	set	up	your	own	“Practice	Makes	Perfect”
+      Better late than n!ever: Using clicker!s to engage the (no!t-so-  session	and	foster	an	environment	of	collaboration	and	con-
+      new) freshman                                                     structive	feedback	among	your	fellow	information	professionals.
+
+      Vincci	Lui,	McGill	University,	Macdonald	Campus	Library
+      What’s	a	librarian	to	do	when	their	annual	in-class	visit	gets	   Collection Developm!ent for Aboriginal !Communities: Providi!ng
+      postponed	due	to	a	packed	syllabus?		Every	October,	freshmen	     Alternative Format Materials th!rough the CNIB Libr!ary Partners
+      at	McGill	University’s	Macdonald	Campus	are	given	an	over-        Program
+      view	on	how	to	effectively	use	library	resources	and	services.		  Theresa	Power,	CNIB
+      Last	fall,	this	usually	carefully-timed	orientation	session	was	  In	2010,	CNIB	received	two	years	of	funding	from	the	Ontario
+
+      pushed	to	later	in	the	term	-	after	some	students	had	already	    Government	which	supports	the	delivery	of	CNIB	Library
+      attended	another	library	workshop,	and	well	after	their	first	    services	to	Ontarians	with	print	disabilities	offered	through
+      library	visit.		Find	out	how	the	use	of	flexibly-struc	Power-     Ontario’s	public	libraries,	including	First	Nations	libraries.		The
+      Point	slides	and	an	interactive	clicker	polling	strategy	uncov-   CNIB	Library	developed	its	collection	of	aboriginal	literature	to
+      ered	library	misconceptions,	empowered	students	to	determine	     meet	the	needs	of	Partner	libraries	working	within	aboriginal
+      session	content,	and	addressed	knowledge	gaps.	                   communities.	Wasauksing	First	Nation	Public	Library,	a	CNIB
+                                                                        Partner	library,	embraced	the	aboriginal	collection	and	uses	it
+
+      Creating a Virtual B!ranch Using Wordpress                        to	enhance	its	services	for	clients	with	print	disabilities.	See
+      Stephen	Wood,	Grey	Highlands	PL                                   how	the	CNIB	Library	developed	this	innovative	collection	and
+      When	creating	a	new	website,	Grey	Highlands	Public	Library	       how	it	is	being	used	and	marketed	in	this	Partner	Library.
+      (GHPL)	chose	to	use	the	Open	Source	Content	Management
+      Software	WordPress	to	create	an	interactive	web	experience
+      that	provides	the	same	level	of	service	as	a	physical	branch	     Group Two
+
+      would.	Using	Instant	WordPress,	GHPL	developed	a	new
+      branch	website	offline	on	a	flash	drive	before	making	it	“live”.	 Presented between C1:00 and 2:00                    pm
+      The	new	interactive	website	provides	a	cutting-edge	experience
+      for	our	patrons	that	is	easy	for	staff	to	maintain	and	upgrade.	  Use online forms i!n library activitie!s
+      Open	Source	software	allows	public	libraries	to	create	an	easy-   Jennifer	(Cong	Yan)	Zhao,	McGill	University
+      to-access	interactive	virtual	branch.                             Google	Docs	forms	have	been	widely	used	in	the	library	for
+                                                                        many	purposes,	such	as	collecting	registration,	feedback,	and
+
+      Virtual Orientation! to Services for S!tudents with Disabi!lities suggestions.	This	poster	goes	beyond	that	and	presents	three
+      Susan	Ewing,	York	University	Libraries                            explorative	practices	of	using	online	forms	to	communicate
+      Student	engagement,	recruitment	and	retention	are	critical	       with	patrons	at	McGill	University:	(A)	marketing	library	services
+      issues	in	the	post-secondary	environment	and	this	applies	        to	faculty	by	creating	a	checklist	using	a	Google	Docs	form,	(B)
+      equally	to	students	with	disabilities.		Increasingly	we	are	turn- assessing	students’	information	literacy	needs	by	an	online	pre-
+      ing	to	instructional	videos	that	can	be	accessed	online	anytime	  test	form,	and	(C)	getting	consensus	on	the	ranking	of	journal
+
+      and	anywhere.	This	poster	will	highlight	the	work	carried	out	to	 subscription	suggestions	within	the	department	by	a	LimeSur-
+      date	on	a	video	project	by	York’s	Academic	Innovation	Fund.		     vey	form.	Issues	of	using	online	forms	will	be	discussed.
+      A	joint	venture	between	Counselling	&	Disability	Services	and
+      York	University	Libraries,	the	end	products	will	assist	both	     InsideOCULA goes on!line and interacti!ve
+      prospective	and	current	students	in	navigating	their	way	across	  Martha	Attridge	Bufton,	Jenaya	Webb,		Elizabeth	Yates,	OCULA
+      campus	to	various	services	and	in	using	accessibility	software	   Members
+      (e.g.	Kurzweil).	                                                 How	do	you	create	an	interactive	online	publication	designed
+
+      46	                                             OLA	SUPER	CONFERENCE	2013
+
+
+
+
+SC2013-program.indd 46                                                                                                            13-01-15 3:57 PM

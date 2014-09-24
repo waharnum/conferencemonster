@@ -1,0 +1,85 @@
+          T
+
+
+
+
+
+       317  	   mTCC	206E                319  	   ICTC	O    akvIllE         321  	   mTCC	203      aB         323  	   mTCC	201B
+
+       9:05	am                           9:05	am                            9:05	am                           9:05	am
+       Information literacyu             Differentiated insutruction, InquirCommunity engagementu, Archives   Information literacyu, Embedded
+       THE DAWN OF A SKILLS              21 CENTURY INQUIRY                 DISCOVER YOUR HISTORYC,           librarianship
+
+       CONTINUUM                         CAMP                               BUILD YOUR COMMUNITYC             CURRICULUM MAPPING: C
+       Richard McCormack & Trevor McMul- Katina Papulkas & K!aren Beutler,  Dan Lerch, User	Experience	Librarian;TING INFORMATION
+       len, Teacher-Librarians;	Durham	DSInstructional	Leaders,	Toronto	DSB Kathryn Schoutse! ur	Stories		    LITERACY ON THE MAP
+
+       Learn	how	we	developed	a	school	  Learn	about	Toronto	DSB’s	pilot	   Project	Coordinator;	Innisfil	PL  Whitney Kemble, Humanities	Liaison
+       wide	inquiry	skills	continuum	    21st	Century	Learning	Day	Camp.	   Each	passing	day,	the	stories	of	 Librarian,	University	of	Toronto
+       from	the	creation	of	a	school	    See	how	student	campers	utilized	  your	community	could	be	left	to	  Scarborough
+
+       committee,	the	inclusion	of	      the	inquiry	process	to	develop	    the	dustbin	of	history.	With	crisiCurriculum	mapping	is	making
+       important	skills,	the	making	of	a	creative	artifacts	to	support	the	 comes	opportunity:	who	better	to	 its	way	into	higher	education,
+       plan,	and	the	creation	of	the	col-Canadian	Olympic	team	in	Lon-      lead	a	local	history	project	than	creating	an	opportunity	for
+
+       laborative	units.		Sec            don.	Highlights	include	differen-  your	local	library?	The	Our	Sto-  librarian-faculty	collaboration	on
+       Convenor: Susan MurrNay, Ottawa-Catiated	teaching	and	learning	of	   ries:	Community	Memory	Project	   integrating	information	literacy
+       DSB                               the	research	process,	tablet	and	  builds	upon	the	widely	adopted	   principles	and	skills	into	course
+
+                                         interactive	technologies,	iBooks	  open	source	Islandora	project.	   and	program	curricula.	Key
+       318  	   ICTC	h   alIBurTOn       Author,	and	Pecha	Kucha	reflec-    Engage	and	excite	community	      concepts,	goals,	and	benefits	of
+       9:05	am                           tions	to	consolidate	learning.     groups	in	capturing	their	stories!curriculum	mapping	will	be	intro-
+
+       Visible Minority Liubrarians      Elem                               Convenor: Jeff BeelNer, Lambton Coduced,	implementation	strategies
+       VISIBLE MINORITY LIBCRAR-         Convenor: Barbara ANyre, Waterloo RLibrary                           will	be	discussed	–	including	sug-
+       IANS OF CANADA PANELC             DSB                                                                  gestions	for	successful	collabora-
+
+       Maha Kumaran, SHIRP	Librarian,	                                      322      mTCC	206C                tions	with	faculty.
+       Saskatchewan	Health	Information	  320   	  ICTC	h    alTOn           9:05	am                           Convenor: Patricia BNellamy, Robarts
+       Resources	Partnership;	Founder	and9:05	am                            Web design, Mobile tuechnology    Library
+
+       Moderator	of	ViMLoC               Literacy, Creative writing         RESPONSIVE DESIGN FOR C
+       ViMLoC’s	founding	members,	       FINDING YOUR VOICE WICTH           THE MOBILE WEB                    324       mTCC	201C
+
+       Maha	Kumaran,	May	Chan,	Chau	     STORY BIRD                         Bilal Khalid,	Senior	Application	 9:05	am
+       Ha,	Grace	Liu,	Norda	Majeko-      Kate Tuff, Teacher-Librarian,	ToronDeveloper;	Sian Meikle, Interim	DiWeb-scale discovery, Assessment
+       dunmi,	and	Kam	Teo	will	outline	  DSB                                rector,	ITS;	Graham Stewart, NetwoEVALUATION OF DISCOVERY
+
+       the	goals	of	ViMLoC,	issues	and	  Using	art	work	from	artists	round	 and	Storage	Services	Manager,	ITS;	AYER SATISFACTION AT
+       challenges	of	visible	minority	   the	world,	students	are	inspired	  University	of	Toronto	Libraries;	DillonON
+       librarians,	ideas	and	suggestions	to	create	illustrated	personal	wriMoore, Web	Initiatives	Librarian,	 Courtney Lundrigan, Reference	&
+
+       for	the	Network	to	pursue,	and	   ing	projects.	Story	Bird	is	a	Web	 Wilfrid	Laurier	University        Instruction	Librarian,	York	University;
+       more.	                            2.0	Tool	available	to	all	TDSB	stu-Responsive	Design	is	an	increas-  Kevin Manuel, Data	Librarian;	May
+       Convenor: Maha KumaNran, Universitdents	on	the	Library	Web	Page.	    ingly	popular	approach	to	pre-    Yan, Electronic	Resources	Librarian,
+
+       Saskatchewan                      Students	have	published	and	       senting	a	single	website	across	  Ryerson	University	Library	&	Archives
+                                         shared	their	stories	and	poems	in	 multiple	mobile	and	desktop	      Are	you	interested	in	user	interac-
+                                         our	School	Library.                environments.	But	is	it	right	for	tion	with	discovery	layers?	Our
+
+                                         Elem                               your	website?	This	session	will	  research	study	was	initiated	to
+                                         Convenor: Jennifer NTaylor, Waterlodescribe	the	experiences	of	two	  assess	Ryerson’s	discovery	layer
+                                         DSB                                University	libraries	(Laurier	and	and	explore	how	well	the	tool
+
+                                                                            UofT)	with	their	RWD	projects.	   served	our	user	needs.	In	one	of
+                                                                            We	will	describe	what’s	involved	 the	online	surveys,	we	collected
+                                                                            in	creating	a	responsive	site,	   over	6,200	survey	responses	–
+
+                                                                            some	pros	and	cons,	and	what	     21%	of	Ryerson’s	population!
+                                                                            goes	into	designing	highly-       Highlighting	the	results	of	the
+                                                                            available	back-end	infrastructure	responses	and	interviews,	we	will
+
+                                                                            to	serve	websites	efficiently	and	provide	an	overview	of	evaluating
+                                                                            reliably.                         discovery	layers	in	libraries.
+                                                                            Convenor: Marian DoNucette, CountyConvenor: Autumn PiNette, Seneca College
+
+                                                                            Huron
+
+
+
+       32	                                               OLA	SUPER	CONFERENCE	2013
+
+
+
+
+SC2013-program.indd 32                                                                                                                   13-01-15 3:57 PM

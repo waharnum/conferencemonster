@@ -1,0 +1,425 @@
+/CS0 CS 0 0 0  SCN
+3 w 4 M 
+/GS0 gs
+36 381 513 348 re
+S
+BT
+/CS0 cs 0 0 0  scn
+/T1_0 1 Tf
+12 0 0 12 177.12 657 Tm
+[(Did I answer your question? T)99(echniques to Recharge Y)92(our )]TJ
+0 -1 TD
+[(Refer)18(ence Interview with Rita Vine )]TJ
+/T1_1 1 Tf
+T*
+(Four week online course starting Monday February 6)Tj
+/T1_0 1 Tf
+0 -2 TD
+(Facelifts for special libraries: Practical tips for giving )Tj
+0 -1 TD
+(your library a makeover: a four part series with Dawn )Tj
+T*
+(Bassett)Tj
+/T1_1 1 Tf
+-0.01 Tc T*
+[(Four week online course starting W)30(ednesday February 8 @ 12pm)-10( )]TJ
+/T1_0 1 Tf
+0 Tc 0 -2 TD
+(Beyond the technology: The good the bad and the ugly )Tj
+0 -1 TD
+[(of cr)18(eating scr)18(eencasts with Silvia V)55(ong)]TJ
+/T1_1 1 Tf
+T*
+[(W)30(eb Conference W)30(ednesday February 15 @ 3:30pm)]TJ
+/T1_0 1 Tf
+0 -2 TD
+[(Har)-18(nessing the power of QR codes with Joe Murphy)]TJ
+/T1_1 1 Tf
+0 -1 TD
+[(W)30(eb Conference T)74(uesday February 21 @ 2pm)]TJ
+/T1_0 1 Tf
+0 -2 TD
+(HTML5 and CSS3: New Markup and Styles for the )Tj
+0 -1 TD
+[(Emerging W)18(eb with Jason Clark )]TJ
+/T1_1 1 Tf
+T*
+[(W)30(eb Conference Thursday March 1 or T)74(uesday May 1 @ 2pm)]TJ
+/T1_0 1 Tf
+0 -2 TD
+[(ePubs Made Easy: How to cr)18(eate them and the issues )]TJ
+0 -1 TD
+[(ar)18(ound them with Di B\351dar)18(d and W)37(alter Lewis )]TJ
+/T1_1 1 Tf
+T*
+[(Three W)30(eek Online Course starting W)30(ednesday April 25 @ 2pm)]TJ
+ET
+q
+47.52 621 121.63 97.695 re
+W n
+q
+/GS1 gs
+121.6300049 0 0 98.6621094 47.5200043 620.0332031 cm
+/Im0 Do
+Q
+Q
+BT
+/T1_0 1 Tf
+20 0 0 20 177.12 702 Tm
+(CO)Tj
+/Span<</ActualText<FEFF006D0069006E>>> BDC 
+(MIN)Tj
+EMC 
+(G SOO)Tj
+/Span<</ActualText<FEFF006E>>> BDC 
+(N)Tj
+EMC 
+( )Tj
+/Span<</ActualText<FEFF0074>>> BDC 
+(T)Tj
+EMC 
+(O )Tj
+/Span<</ActualText<FEFF007400680065>>> BDC 
+(THE)Tj
+EMC 
+( )Tj
+( )Tj
+0 -1.15 TD
+(E)Tj
+/Span<</ActualText<FEFF0064>>> BDC 
+(D)Tj
+EMC 
+(U)Tj
+/Span<</ActualText<FEFF0063>>> BDC 
+(C)Tj
+EMC 
+(A)Tj
+/Span<</ActualText<FEFF00740069>>> BDC 
+3.488 0 Td
+(TI)Tj
+EMC 
+(O)Tj
+/Span<</ActualText<FEFF006E>>> BDC 
+(N)Tj
+EMC 
+( I)Tj
+/Span<</ActualText<FEFF006E0073007400690074>>> BDC 
+(NSTIT)Tj
+EMC 
+(U)Tj
+/Span<</ActualText<FEFF00740065>>> BDC 
+(TE)Tj
+EMC 
+(! )Tj
+/T1_1 1 Tf
+10 0 0 10 47.7657 597 Tm
+(Visit educationinstitute.ca )Tj
+0.917 -1.2 Td
+(for more information.)Tj
+0.705 -1.2 Td
+( )Tj
+/T1_0 1 Tf
+(Join us online to )Tj
+( )Tj
+0.28 -1.2 Td
+(stay up to date!)Tj
+/T1_1 1 Tf
+1.226 -16.8 Td
+(@edinstitute )Tj
+ET
+q
+78.095 488.524 60.48 60.476 re
+W n
+q
+/GS1 gs
+60.4799957 0 0 60.4799957 78.0950317 488.5200043 cm
+/Im1 Do
+Q
+Q
+q
+78.095 405 60.48 60.476 re
+W n
+q
+/GS1 gs
+61.4442596 0 0 60.4799957 78.0950317 404.9965668 cm
+/Im2 Do
+Q
+Q
+BT
+/T1_1 1 Tf
+10 0 0 10 48.8807 477 Tm
+(facebook.com/edinstitute)Tj
+/T1_0 1 Tf
+20 0 0 20 40.4718 342 Tm
+(SU)Tj
+/Span<</ActualText<FEFF007000650072>>> BDC 
+(PER)Tj
+EMC 
+( CO)Tj
+/Span<</ActualText<FEFF006E0066006500720065006E00630065>>> BDC 
+(NFERENCE)Tj
+EMC 
+( )Tj
+/Span<</ActualText<FEFF00690073>>> BDC 
+(IS)Tj
+EMC 
+( )Tj
+/Span<</ActualText<FEFF006A>>> BDC 
+(J)Tj
+EMC 
+(U)Tj
+/Span<</ActualText<FEFF00730074>>> BDC 
+(ST)Tj
+EMC 
+( )Tj
+/Span<</ActualText<FEFF007400680065>>> BDC 
+(THE)Tj
+EMC 
+( )Tj
+/Span<</ActualText<FEFF00620065>>> BDC 
+(BE)Tj
+EMC 
+(G)Tj
+/Span<</ActualText<FEFF0069006E006E0069006E>>> BDC 
+(INNIN)Tj
+EMC 
+(G O)Tj
+/Span<</ActualText<FEFF0066>>> BDC 
+(F)Tj
+EMC 
+( A )Tj
+/Span<</ActualText<FEFF00790065>>> BDC 
+0.84 -1.15 Td
+(YE)Tj
+EMC 
+(A)Tj
+/Span<</ActualText<FEFF0072>>> BDC 
+(R)Tj
+EMC 
+( )Tj
+/Span<</ActualText<FEFF0066>>> BDC 
+(F)Tj
+EMC 
+(U)Tj
+/Span<</ActualText<FEFF006C006C>>> BDC 
+(LL)Tj
+EMC 
+( O)Tj
+/Span<</ActualText<FEFF0066>>> BDC 
+(F)Tj
+EMC 
+( SU)Tj
+/Span<</ActualText<FEFF007000650072>>> BDC 
+(PER)Tj
+EMC 
+( E)Tj
+/Span<</ActualText<FEFF0064>>> BDC 
+(D)Tj
+EMC 
+(U)Tj
+/Span<</ActualText<FEFF0063>>> BDC 
+(C)Tj
+EMC 
+(A)Tj
+/Span<</ActualText<FEFF00740069>>> BDC 
+14.436 0 Td
+(TI)Tj
+EMC 
+(O)Tj
+/Span<</ActualText<FEFF006E>>> BDC 
+(N)Tj
+EMC 
+( P)Tj
+/Span<</ActualText<FEFF0072>>> BDC 
+(R)Tj
+EMC 
+(OG)Tj
+/Span<</ActualText<FEFF0072>>> BDC 
+(R)Tj
+EMC 
+(A)Tj
+/Span<</ActualText<FEFF006D0073>>> BDC 
+(MS)Tj
+EMC 
+(!)Tj
+/Span<</ActualText<FEFF0041>>> BDC 
+12 0 0 12 45.2674 273 Tm
+(A)Tj
+EMC 
+(dd these dates )Tj
+-0.083 -1 Td
+(to your calendar )Tj
+0.555 -1 Td
+(and keep your )Tj
+-0.278 -1 Td
+(eyes peeled for )Tj
+0.274 -1 Td
+[(r)18(egistration \227 )]TJ
+-0.775 -1 Td
+(spots \037ll quickly!)Tj
+ET
+q
+/GS1 gs
+70.4072418 0 0 60 322.9213867 225 cm
+/Im3 Do
+Q
+q
+429.8 189 113.76 72 re
+W n
+q
+/GS1 gs
+115.7827148 0 0 73.9076691 428.7063904 188.1744995 cm
+/Im4 Do
+Q
+Q
+BT
+0.502 0.748 0.462  scn
+/GS1 gs
+/T1_2 1 Tf
+24 0 0 24 429.75 267.3842 Tm
+[(\033\036\032)2(\204\r\032)2(\023\032)2(\240\023\223)]TJ
+0 0 0  scn
+/GS0 gs
+/T1_0 1 Tf
+/Span<</ActualText<FEFF0041>>> BDC 
+10 0 0 10 307.5455 204 Tm
+(A)Tj
+EMC 
+(nnual Institute on )Tj
+0.015 -1.2 Td
+(the Library as Place)Tj
+9 0 0 9 316.4552 181.2 Tm
+(July 10 & 11, 2012)Tj
+/T1_1 1 Tf
+10 0 0 10 305.8955 169.2 Tm
+(Blue Mountain Resort, )Tj
+0.945 -1.2 Td
+(Collingwood, Ont.)Tj
+-0.196 -1.2 Td
+(This year's Institute )Tj
+-1.306 -1.2 Td
+(takes our team of library )Tj
+0.251 -1.2 Td
+(planners, architects and )Tj
+-0.278 -1.2 Td
+(design enthusiasts to the )Tj
+0.723 -1.2 Td
+(Blue Mountain Resort )Tj
+-0.695 -1.2 Td
+(for two days of intensive )Tj
+0.222 -1.2 Td
+(learning and discussion. )Tj
+-0.168 -1.2 Td
+(Registration is limited to )Tj
+0.417 -1.2 Td
+(100 seats. Sign up now )Tj
+2.084 -1.2 Td
+(accessola.com)Tj
+/T1_0 1 Tf
+-15.383 19.08 Td
+(Digital )Tj
+/Span<</ActualText<FEFF004F>>> BDC 
+(O)Tj
+EMC 
+(dyssey 2012: )Tj
+-0.173 -1.2 Td
+[(Liberation T)99(echnology )]TJ
+2.105 -1.2 Td
+(/ lib\351ration de )Tj
+0.556 -1.2 Td
+(technologie)Tj
+-1.862 -1.2 Td
+(Friday June 8, 2012)Tj
+/T1_1 1 Tf
+0.087 -1.2 Td
+(Bram & Bluma Appel )Tj
+-1.019 -1.2 Td
+[(Salon, T)74(oronto Reference )]TJ
+4.269 -1.2 Td
+(Library)Tj
+-4.278 -1.2 Td
+(Registration will open on )Tj
+0.443 -1.2 Td
+(Friday March 9, 2012 at )Tj
+2.224 -1.2 Td
+(accessola.com)Tj
+/T1_0 1 Tf
+25.017 6.15 Td
+(R)Tj
+/Span<</ActualText<FEFF0041>>> BDC 
+(A)Tj
+EMC 
+( in a Day 2012)Tj
+-0.375 -1.2 Td
+(Friday )Tj
+/Span<</ActualText<FEFF004F>>> BDC 
+(O)Tj
+EMC 
+(ctober 26, )Tj
+3.515 -1.2 Td
+(2012)Tj
+/T1_1 1 Tf
+-3.101 -1.2 Td
+[(T)74(oronto Reference )]TJ
+2.713 -1.2 Td
+(Library )Tj
+-1.417 -1.2 Td
+(Program and )Tj
+-2.75 -1.2 Td
+(Registration information )Tj
+2.612 -1.2 Td
+(coming soon!)Tj
+ET
+q
+167.625 247.5 119.25 36 re
+W n
+q
+/GS1 gs
+120.2399902 0 0 36.9600067 167.6250153 246.5399933 cm
+/Im5 Do
+Q
+Q
+BT
+/T1_0 1 Tf
+/Span<</ActualText<FEFF004F>>> BDC 
+10 0 0 10 60.6327 181.5 Tm
+(O)Tj
+EMC 
+(C)Tj
+/Span<</ActualText<FEFF0055>>> BDC 
+(U)Tj
+EMC 
+(L)Tj
+/Span<</ActualText<FEFF0041>>> BDC 
+(A)Tj
+EMC 
+(/WNY)Tj
+/Span<</ActualText<FEFF004F>>> BDC 
+(O)Tj
+EMC 
+( )Tj
+( )Tj
+-1.256 -1.2 Td
+[(Spring Confer)18(ence)]TJ
+-0.554 -1.2 Td
+(Friday )Tj
+/Span<</ActualText<FEFF0041>>> BDC 
+(A)Tj
+EMC 
+(pril 27, 2012)Tj
+/T1_1 1 Tf
+1.311 -1.2 Td
+(Join us in Jordan, )Tj
+-1.584 -1.2 Td
+(Ontario this spring! This )Tj
+-0.14 -1.2 Td
+(year's theme is "Shaping )Tj
+0.279 -1.2 Td
+(the Future of Academic )Tj
+2.027 -1.2 Td
+(Librarianship.")Tj
+-1.435 -1.2 Td
+[(Inn on the T)74(wenty \227 )]TJ
+1.074 -1.2 Td
+(Jordan, Ontario.)Tj
+ET
