@@ -1,0 +1,111 @@
+<conference>
+	<name>Internet Librarian</name>
+	<start-date>2014-10-26</start-date>
+	<end-date>2014-10-29</end-date>
+	<location>Monterey, California</location>
+	<venue>Monterey Conference Center</venue>
+	<venue>Portola Hotel & Spa</venue>
+	<venue>Monterey Marriott</venue>
+
+	<organizer><name>Information Today, Inc.</name></organizer>
+
+	<sponsor><type>Gold Sponsor</type><name>EBSCO</name></sponsor>
+
+	<sponsor><type>Media Sponsor</type><name>Business Wire</name></sponsor>
+
+	<sponsor><type>Media Sponsor</type><name>Computers in Libraries</name></sponsor>
+
+	<sponsor><type>Media Sponsor</type><name>Information Today</name></sponsor>
+
+
+	<sponsor><type>Media Sponsor</type><name>Internet @ Schools</name></sponsor>	
+
+	<sponsor><type>Media Sponsor</type><name>Online Searcher</name></sponsor>	
+
+	<sponsor><type>Learning Partner</type><name>Special Libraries Association</name></sponsor>	
+
+	<sponsor><type>Association Sponsor</type><name>Association of Independent Information Professionals</name></sponsor>
+
+	
+
+	<description>Information Today Inc., a key provider of technology conferences for more than thirty years, is pleased to announce the 18th annual Internet Librarian— the ONLY conference for information professionals who are using, developing, and embracing Internet and Web-based strategies in their roles as information architects and navigators, webmasters and web managers, content evaluators and curators, digital managers, developers and integrators, taxonomists, searchers, community builders and managers, information providers, trainers, guides, and more. This comprehensive conference and exhibition offers a wide-ranging program designed to meet the needs of librarians, information managers, systems professionals, researchers, content managers and information specialists. Internet Librarian 2014 caters to all interests and all levels of knowledge with five simultaneous tracks, including Internet@Schools, plus many workshop and networking opportunities.</description>
+	
+
+	<session>
+		<start-time></start-time>
+		<end-time></end-time>
+		<name>Searchers Academy: Hacking Search</name>
+		<description>
+		<![CDATA[ 
+			<p>Now that our smartphones can search the web for us, how do info pros set themselves apart from anyone with access to Google? This full-day workshop brings the basic principles of hacking—curiosity, creativity, collaboration—to advanced web research. Searchers Academy allows you to interact with a series of industry experts, who share their search hacks and expertise in the field of web research. There’s always something new to be learned from these leading-edge info pros. Participants should have basic experience with web searching, but even searchers with an extensive searching background will come away with a new attitude and new resources and tools. Academy topics include:</p>
+			<ul>
+			<li>H acking Google: Learn about the new and little-known search features that enable you to out-Google anyone... even your clients!</li>
+			<li>Hacking the Deep Web: Today’s best techniques for identifying and searching the rich content within the deep web</li>
+			<li>Hacking the Social Web: How to get the most value from social media, both for research and professional development</li>
+			<li>Hacking Your Deliverables: What you can do with your search results to make the information even more valuable</li>
+			<li>Hacking Subject Searches: Specific tools and resources for searching in a variety of specialized topics</li> </ul>
+		]]>
+		</description>
+		<speaker>
+			<name>Mary Ellen Bates</name>
+			<affiliation>
+				<title>Principal</title>
+				<organization>Bates Information Services, Inc.</organization>
+			</affiliation>			
+			<affiliation>
+				<title>Author</title>
+			</affiliation>
+		</speaker>
+		<speaker>
+			<name>Greg Notess</name>
+			<affiliation>
+				<title>Reference Team Leader</title>
+				<organization>Montana State University
+				</organization>
+			</affiliation>			
+			<affiliation>
+				<title>Author, Search Engine Showdown</title>
+				</affiliation>
+		</speaker>
+
+		<speaker>
+			<name>Gary Price</name>
+			<affiliation>
+				<title>Co-Founder</title>
+				<organization>INFODocket
+				</organization>
+			</affiliation>			
+			<affiliation>
+				<title>Co-Founder</title>
+				<organization>FullTextReports
+				</organization>
+				</affiliation>
+		</speaker>
+
+		<speaker>
+			<name>Marcy Phelps</name>
+			<affiliation>
+				<title>President</title>
+				<organization>Phelps Research
+				</organization>
+			</affiliation>			
+			<affiliation>
+				<title>Author</title>
+				<organization>Research
+on Main Street: Using the Web to Find Local Business and Market
+Information
+				</organization>
+				</affiliation>
+		</speaker>
+
+	<speaker>
+			<name>Grace Simms</name>
+			<affiliation>
+				<title>Information Technology Librarian</title>
+				<organization>Beeson Law Library, Samford University
+				</organization>
+			</affiliation>			
+		</speaker>
+	</session>
+
+</conference>
