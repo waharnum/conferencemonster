@@ -45,11 +45,12 @@ addies = ['il2014-workshops.html']
 
 addies.each do |addy|
 	doc = Nokogiri::HTML(open(addy))
-  
-  doc.xpath('//div[contains(@class,"session")]').each_with_index do |session, session_index|    
 
-  	session_title = session.xpath('h3[contains(@class,"session-title")]').inner_html
-  	session_description = session.xpath('span[contains(@itemprop,"description")]').inner_html
+  doc.xpath('//div[@class="session"]').each_with_index do |session, session_index|    
+
+
+  	session_title = session.xpath('h3[@class="session-title"]').inner_html
+  	session_description = session.xpath('span[@itemprop="description"]').inner_html
 
     # puts "Index/Inspect: #{session_index} - #{session.inspect}"
     # puts "Title/Description: #{session_title} - #{session.description}"
@@ -59,10 +60,10 @@ addies.each do |addy|
 
   	# puts "#{session_title}"
     # puts "#{session_description}"
-    session.xpath('div[contains(@class,"program-speaker")]').each do |session_speaker|
-      speaker_name = session_speaker.xpath('a/span[contains(@itemprop, "name")]').inner_html
-      speaker_job_title = session_speaker.xpath('span[contains(@itemprop, "jobTitle")]').inner_html
-      speaker_works_for = session_speaker.xpath('span[contains(@itemprop, "worksFor")]/span[contains(@itemprop, "name")]').inner_html      
+    session.xpath('div[@class="program-speaker"]').each do |session_speaker|
+      speaker_name = session_speaker.xpath('a/span[@itemprop="name"]').inner_html
+      speaker_job_title = session_speaker.xpath('span[@itemprop="jobTitle"]').inner_html
+      speaker_works_for = session_speaker.xpath('span[@itemprop="worksFor"]/span[contains(@itemprop, "name")]').inner_html      
       # puts "\t#{speaker_name}, #{speaker_job_title}, #{speaker_works_for}"        
       speaker = Speaker.new(speaker_name,speaker_job_title,speaker_works_for)
       session_obj.add_speaker(speaker)
