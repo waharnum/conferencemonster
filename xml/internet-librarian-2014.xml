@@ -1,4 +1,4 @@
-<conference>
+<conference xmlns="http://www.alanharnum.ca/projects/conferencemonster">
 	<name>Internet Librarian</name>
 	<start-date>2014-10-26</start-date>
 	<end-date>2014-10-29</end-date>
@@ -64,14 +64,16 @@
 	
 
 	<session>
+		<date>2014-10-26</date>		
 		<start-time>0900</start-time>
 		<end-time>1630</end-time>
+		<track>Workshops</track>
 		<name>Searchers Academy: Hacking Search</name>
 		<description>
 		<![CDATA[ 
 			<p>Now that our smartphones can search the web for us, how do info pros set themselves apart from anyone with access to Google? This full-day workshop brings the basic principles of hacking—curiosity, creativity, collaboration—to advanced web research. Searchers Academy allows you to interact with a series of industry experts, who share their search hacks and expertise in the field of web research. There’s always something new to be learned from these leading-edge info pros. Participants should have basic experience with web searching, but even searchers with an extensive searching background will come away with a new attitude and new resources and tools. Academy topics include:</p>
 			<ul>
-			<li>H acking Google: Learn about the new and little-known search features that enable you to out-Google anyone... even your clients!</li>
+			<li>Hacking Google: Learn about the new and little-known search features that enable you to out-Google anyone... even your clients!</li>
 			<li>Hacking the Deep Web: Today’s best techniques for identifying and searching the rich content within the deep web</li>
 			<li>Hacking the Social Web: How to get the most value from social media, both for research and professional development</li>
 			<li>Hacking Your Deliverables: What you can do with your search results to make the information even more valuable</li>
@@ -123,9 +125,7 @@
 			</affiliation>			
 			<affiliation>
 				<title>Author</title>
-				<organization>Research
-on Main Street: Using the Web to Find Local Business and Market
-Information
+				<organization>Research on Main Street: Using the Web to Find Local Business and Market Information
 				</organization>
 				</affiliation>
 		</speaker>
@@ -138,6 +138,42 @@ Information
 				</organization>
 			</affiliation>			
 		</speaker>
+	</session>
+<!-- Here -->
+<session>
+		<date>2014-10-26</date>		
+		<start-time>0900</start-time>
+		<end-time>1200</end-time>
+		<track>Workshops</track>
+		<name>Defining New Metrics for Library Success</name>
+		<description>
+		<![CDATA[ 
+			<p>Libraries are challenged to communicate their value in uncertain fiscal and changing environments. Our communities, boards, management, and institutions are asking for stronger and better measurements of our impact and value to help them with decision-making and prioriti- zation. This interactive, half-day workshop looks at the various metrics and measures the library sector uses to manage what it is doing (its activities and individual services) and the value of what it is doing. These are very different measurement objectives and processes, yet complementary and vital. It discusses “measurement” in a broad sense, including the value of selected services, as well as the overall management of processes and services. It is very important that people in the library sector are aware of different measures—with different objectives. Who knows where new ideas will come from? All libraries can learn from each other.</p> 
+		]]>
+		</description>
+		<speaker>
+			<name>Rebecca Jones</name>
+			<affiliation>				
+				<organization>Dystart & Jones Associates</organization>
+			</affiliation>						
+		</speaker>
+		<speaker>			
+			<name>Moe Hosseini-Ara</name>
+			<affiliation>
+				<title>Director of Culture</title>
+				<organization>City of Markham
+				</organization>
+			</affiliation>			
+		</speaker>
+
+		<speaker>
+			<name>Stephen Abram</name>
+			<affiliation>
+				<title>Publisher</title>
+				<organization>Stephen's Lighthouse
+				</organization>
+			</affiliation>						
+		</speaker>		
 	</session>
 
 </conference>
