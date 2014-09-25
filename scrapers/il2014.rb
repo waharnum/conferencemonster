@@ -6,7 +6,7 @@ addies = ['http://internet-librarian.infotoday.com/2014/Workshops.aspx','http://
 
 addies.each do |addy|
 	doc = Nokogiri::HTML(open(addy))
-	doc.xpath('//h3[contains(@class,"session-title")]').each do |link|
-		puts link
+	doc.xpath('//h3[contains(@class,"session-title")]').each do |session|
+		puts session
 	end
 end
