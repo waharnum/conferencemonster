@@ -86,6 +86,15 @@ builder = Nokogiri::XML::Builder.new do |xml|
         xml.session {
           xml.title s.title
           xml.description s.description
+          xml.speakers {
+            s.speakers.each do |speaker|
+              xml.speaker{
+                xml.name speaker.name                
+                xml.job_title speaker.job_title
+                xml.works_for speaker.works_for
+              } 
+            end
+          }
         }
       end
     }
