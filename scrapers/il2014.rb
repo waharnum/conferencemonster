@@ -26,10 +26,6 @@ class Session
     @speakers.push(speaker)
   end
 
-  def to_s()
-    return "#{@title}, #{@description}, #{@speakers}"
-  end
-
 end
 
 class Conference
@@ -44,7 +40,7 @@ class Conference
   def add_session(session)
     @sessions.push(session)
   end
-  def build_xml()
+  def to_xml()
     builder = Nokogiri::XML::Builder.new do |xml|
   xml.conference{
     xml.title title
@@ -68,7 +64,26 @@ class Conference
     }
   }
   end
+     return builder.to_xml
   end
+end
+
+def ConferenceScraper
+  attr_reader :session_xpath
+  attr_reader :speaker_xpath
+  def initialize(session_xpath,session_title_xpath,session_description_xpath,speaker_xpath,speaker_name_xpath,speaker_job_title_xpath,speaker_works_for_xpath)
+    @session_xpath = session_xpath
+    @session_title_xpath = session_title_xpath
+    @session_description_xpath = session_description_xpath
+    @speaker_xpath = speaker_xpath
+    @speaker_name_xpath = speaker_name_xpath
+    @speaker_job_title_xpath = speaker_job_title_xpath
+    @speaker_works_for_xpath = speaker_works_for_xpath
+  end
+  
+  def scrape_conference(conference_pages)
+  end
+  
 end
 
 
@@ -104,4 +119,4 @@ addies.each do |addy|
 	end
 end
 
-puts conference.build_xml.to_xml
+puts conference.to_xml
