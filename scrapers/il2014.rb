@@ -2,9 +2,9 @@ require 'nokogiri'
 require 'open-uri'
 
 class Speaker
-  attr_accessor :name
-  attr_accessor :job_title
-  attr_accessor :works_for
+  attr_reader :name
+  attr_reader :job_title
+  attr_reader :works_for
   def initialize(name, job_title,works_for)
     @name = name
     @job_title = job_title    
@@ -13,9 +13,9 @@ class Speaker
 end
 
 class Session
-  attr_accessor :title
-  attr_accessor :description
-  attr_accessor :speakers
+  attr_reader :title
+  attr_reader :description
+  attr_reader :speakers
   def initialize(title, description)
     @title = title
     @description = description
@@ -33,9 +33,9 @@ class Session
 end
 
 class Conference
-  attr_accessor :title
-  attr_accessor :year
-  attr_accessor :sessions
+  attr_reader :title
+  attr_reader :year
+  attr_reader :sessions
   def initialize(title, year)
     @title = title
     @year = year
@@ -44,7 +44,34 @@ class Conference
   def add_session(session)
     @sessions.push(session)
   end
+  def build_xml()
+    builder = Nokogiri::XML::Builder.new do |xml|
+  xml.conference{
+    xml.title title
+    xml.year year
+    xml.sessions {
+      sessions.each do |s|
+        xml.session {
+          xml.title s.title
+          xml.description s.description
+          xml.speakers {
+            s.speakers.each do |speaker|
+              xml.speaker{
+                xml.name speaker.name                
+                xml.job_title speaker.job_title
+                xml.works_for speaker.works_for
+              } 
+            end
+          }
+        }
+      end
+    }
+  }
+  end
+  end
 end
+
+
 
 conference = Conference.new("Internet Librarian","2014")
 
@@ -77,27 +104,4 @@ addies.each do |addy|
 	end
 end
 
-builder = Nokogiri::XML::Builder.new do |xml|
-  xml.conference{
-    xml.title conference.title
-    xml.year conference.year
-    xml.sessions {
-      conference.sessions.each do |s|
-        xml.session {
-          xml.title s.title
-          xml.description s.description
-          xml.speakers {
-            s.speakers.each do |speaker|
-              xml.speaker{
-                xml.name speaker.name                
-                xml.job_title speaker.job_title
-                xml.works_for speaker.works_for
-              } 
-            end
-          }
-        }
-      end
-    }
-  }
-end
-puts builder.to_xml
+puts conference.build_xml.to_xml
