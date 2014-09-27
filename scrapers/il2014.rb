@@ -68,7 +68,7 @@ class Conference
   end
 end
 
-def ConferenceScraper
+class ConferenceScraper
   attr_reader :session_xpath
   attr_reader :speaker_xpath
   def initialize(session_xpath,session_title_xpath,session_description_xpath,speaker_xpath,speaker_name_xpath,speaker_job_title_xpath,speaker_works_for_xpath)
@@ -82,11 +82,15 @@ def ConferenceScraper
   end
   
   def scrape_conference(conference_pages)
+    raise NotImplementedError, "You must implement the scrape_conference method"
   end
-  
 end
 
-
+class InternetLibrarian2014Scraper < ConferenceScraper
+  def initialize
+    super(session_xpath = '//div[@class="session"]',session_title_xpath = 'h3[@class="session-title"]',session_description_xpath = 'span[@itemprop="description"]',speaker_xpath = 'div[@class="program-speaker"]',speaker_name_xpath = 'a/span[@itemprop="name"]',speaker_job_title_xpath = 'span[@itemprop="jobTitle"]',speaker_works_for_xpath = 'span[@itemprop="worksFor"]/span[contains(@itemprop, "name")]')
+  end
+end
 
 conference = Conference.new("Internet Librarian","2014")
 
