@@ -70,7 +70,12 @@ end
 
 class ConferenceScraper
   attr_reader :session_xpath
+  attr_reader :session_title_xpath
+  attr_reader :session_description_xpath
   attr_reader :speaker_xpath
+  attr_reader :speaker_name_xpath
+  attr_reader :speaker_job_title_xpath
+  attr_reader :speaker_works_for_xpath
   def initialize(session_xpath,session_title_xpath,session_description_xpath,speaker_xpath,speaker_name_xpath,speaker_job_title_xpath,speaker_works_for_xpath)
     @session_xpath = session_xpath
     @session_title_xpath = session_title_xpath
@@ -87,40 +92,38 @@ class ConferenceScraper
 end
 
 class InternetLibrarian2014Scraper < ConferenceScraper
+  
   def initialize
     super(session_xpath = '//div[@class="session"]',session_title_xpath = 'h3[@class="session-title"]',session_description_xpath = 'span[@itemprop="description"]',speaker_xpath = 'div[@class="program-speaker"]',speaker_name_xpath = 'a/span[@itemprop="name"]',speaker_job_title_xpath = 'span[@itemprop="jobTitle"]',speaker_works_for_xpath = 'span[@itemprop="worksFor"]/span[contains(@itemprop, "name")]')
   end
-end
+  
+  def scrape_conference(conference_pages)
+    conference = Conference.new("Internet Librarian","2014")
+    conference_pages.each do |page|
+      doc = Nokogiri::HTML(open(page))
+      doc.xpath(session_xpath).each do |session|    
 
-conference = Conference.new("Internet Librarian","2014")
+        session_title = session.xpath(session_title_xpath).inner_html
+        session_description = session.xpath(session_description_xpath).inner_html
 
-addies = ['il2014-monday.html','il2014-tuesday.html','il2014-wednesday.html','il2014-workshops.html']
+        session_obj = Session.new(session_title, session_description)
 
-# addies = ['il2014-workshops.html']
+        session.xpath(speaker_xpath).each do |session_speaker|
+          speaker_name = session_speaker.xpath(speaker_name_xpath).inner_html
+          speaker_job_title = session_speaker.xpath(speaker_job_title_xpath).inner_html
+          speaker_works_for = session_speaker.xpath(speaker_works_for_xpath).inner_html      
+          speaker = Speaker.new(speaker_name,speaker_job_title,speaker_works_for)
+          session_obj.add_speaker(speaker)
+        end
 
-addies.each do |addy|
-	doc = Nokogiri::HTML(open(addy))
+        conference.add_session(session_obj)
 
-  doc.xpath('//div[@class="session"]').each_with_index do |session, session_index|    
-
-
-  	session_title = session.xpath('h3[@class="session-title"]').inner_html
-  	session_description = session.xpath('span[@itemprop="description"]').inner_html
-    
-    session_obj = Session.new(session_title, session_description)
-
-    session.xpath('div[@class="program-speaker"]').each do |session_speaker|
-      speaker_name = session_speaker.xpath('a/span[@itemprop="name"]').inner_html
-      speaker_job_title = session_speaker.xpath('span[@itemprop="jobTitle"]').inner_html
-      speaker_works_for = session_speaker.xpath('span[@itemprop="worksFor"]/span[contains(@itemprop, "name")]').inner_html      
-      speaker = Speaker.new(speaker_name,speaker_job_title,speaker_works_for)
-      session_obj.add_speaker(speaker)
+      end
     end
-    
-    # puts session_obj
-    conference.add_session(session_obj)
-
-	end
+    puts conference.to_xml
+  end
+  
 end
 
-puts conference.to_xml
+scraper = InternetLibrarian2014Scraper.new
+scraper.scrape_conference(['il2014-monday.html','il2014-tuesday.html','il2014-wednesday.html','il2014-workshops.html'])
