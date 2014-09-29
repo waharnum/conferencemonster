@@ -1,0 +1,3 @@
+Session:
+doc.xpath("//a[contains(@name,'session_')]")
+doc.xpath("//a[contains(@name,'session_')]/following-sibling::span[@class = 'parahead']")
