@@ -17,8 +17,8 @@ def extract_speaker_job_title(s)
 end
 
 def extract_speaker_works_for(s)  
-  if (s.split(",")[2].respond_to?('strip'))
-    return s.split(",")[2].strip
+  if (s.split(",",3)[2].respond_to?('strip'))
+    return s.split(",",3)[2].strip
   else return s[2]
   end
 end
