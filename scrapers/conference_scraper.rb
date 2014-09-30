@@ -21,7 +21,7 @@ class ConferenceScraper
   
   # Must return an appropriate Conference object
   def init_scraper_conference()
-    raise NotImplementedError, "You must implement the init_conference method!"
+    raise NotImplementedError, "You must implement the init_scraper_conference method!"
   end
 
   # Scrape an array of conference_pages and returns a Conference object

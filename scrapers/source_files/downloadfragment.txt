@@ -1,0 +1,8 @@
+curl http://www.infotoday.com/il2008/day.asp?day=Saturday > il2008-saturday.html;
+curl http://www.infotoday.com/il2008/day.asp?day=Sunday > il2011-sunday.html;
+curl http://www.infotoday.com/il2008/day.asp?day=Monday > il2008-monday.html;
+curl http://www.infotoday.com/il2008/day.asp?day=Tuesday > il2008-tuesday.html;
+curl http://www.infotoday.com/il2008/day.asp?day=Wednesday > il2008-wednesday.html;
+
+---
+
