@@ -21,6 +21,8 @@ class ConferenceScraper
     raise NotImplementedError, "You must implement the init_conference method!"
   end
 
+  # Scrape an array of conference_pages and returns a Conference object
+  
   def scrape_conference(conference_pages)
     conference = init_scraper_conference()    
     conference_pages.each do |page|
@@ -49,6 +51,8 @@ class ConferenceScraper
     return conference
   end
 end
+
+# extract_ functions below can be re-implemented in derived classes for processing the strings returned by the xpath statements
 
 def extract_session_title(s)
   return s
