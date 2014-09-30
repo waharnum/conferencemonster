@@ -1,3 +1,6 @@
+require 'nokogiri'
+require 'open-uri'
+
 class ConferenceScraper
   attr_reader :session_xpath
   attr_reader :session_title_xpath
