@@ -17,7 +17,31 @@ class ConferenceScraper
   end
   
   def scrape_conference(conference_pages)
-    raise NotImplementedError, "You must implement the scrape_conference method"
+    conference = Conference.new("Internet Librarian","2013")
+    conference_pages.each do |page|
+      doc = Nokogiri::HTML(open(page))      
+      doc.encoding = 'utf-8'
+      doc.xpath(session_xpath).each do |session|
+               
+        session_title = session.xpath(session_title_xpath).inner_html                
+        session_description = session.xpath(session_description_xpath).inner_html
+
+        session_obj = Session.new(session_title, session_description)
+        
+        session.xpath(speaker_xpath).each do |session_speaker|          
+          speaker_name = session_speaker.xpath(speaker_name_xpath).inner_html          
+          speaker_job_title = extract_speaker_job_title(session_speaker.xpath(speaker_job_title_xpath).inner_html)          
+          speaker_works_for = extract_speaker_works_for(session_speaker.xpath(speaker_works_for_xpath).inner_html)      
+          speaker = Speaker.new(speaker_name,speaker_job_title,speaker_works_for)
+          session_obj.add_speaker(speaker)
+        end
+
+        conference.add_session(session_obj)
+
+      end
+    end
+    
+    puts conference.to_xml
   end
 end
 
