@@ -16,8 +16,14 @@ class ConferenceScraper
     @speaker_works_for_xpath = speaker_works_for_xpath
   end
   
+  # Must return an appropriate Conference object
+  def init_scraper_conference()
+    raise NotImplementedError, "You must implement the init_conference method!"
+  end
+
   def scrape_conference(conference_pages)
-    conference = Conference.new("Internet Librarian","2013")
+    conference = init_scraper_conference()
+    # conference = Conference.new("Internet Librarian","2013")
     conference_pages.each do |page|
       doc = Nokogiri::HTML(open(page))      
       doc.encoding = 'utf-8'
@@ -41,7 +47,7 @@ class ConferenceScraper
       end
     end
     
-    puts conference.to_xml
+    return conference
   end
 end
 

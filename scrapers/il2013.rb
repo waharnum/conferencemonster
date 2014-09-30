@@ -8,6 +8,10 @@ class InternetLibrarian2013Scraper < ConferenceScraper
   def initialize
     super(session_xpath = '//td[child::a[contains(@name,"session_")]]',session_title_xpath = 'span[@class = "parahead"]',session_description_xpath = 'p',speaker_xpath = 'descendant::a[contains(@href,"speakers.asp?speaker=")]',speaker_name_xpath = '.',speaker_job_title_xpath = '../following-sibling::em[1]',speaker_works_for_xpath = '../following-sibling::em[1]')
   end
+
+  def init_scraper_conference()
+    return Conference.new("Internet Librarian","2013")
+  end
   
 def extract_speaker_job_title(s)
   if (s.split(",")[1].respond_to?('strip'))
@@ -26,4 +30,5 @@ end
 end
 
 scraper = InternetLibrarian2013Scraper.new
-scraper.scrape_conference(['il2013-workshops.html','il2013-monday.html','il2013-tuesday.html','il2013-wednesday.html'])
+conference = scraper.scrape_conference(['il2013-workshops.html','il2013-monday.html','il2013-tuesday.html','il2013-wednesday.html'])
+puts conference.to_xml
