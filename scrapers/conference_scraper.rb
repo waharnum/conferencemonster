@@ -22,8 +22,7 @@ class ConferenceScraper
   end
 
   def scrape_conference(conference_pages)
-    conference = init_scraper_conference()
-    # conference = Conference.new("Internet Librarian","2013")
+    conference = init_scraper_conference()    
     conference_pages.each do |page|
       doc = Nokogiri::HTML(open(page))      
       doc.encoding = 'utf-8'
