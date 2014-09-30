@@ -21,6 +21,14 @@ class ConferenceScraper
   end
 end
 
+def extract_speaker_job_title(s)
+  return s
+end
+
+def extract_speaker_works_for(s)
+  return s
+end
+
 class Speaker
   attr_reader :name
   attr_reader :job_title
