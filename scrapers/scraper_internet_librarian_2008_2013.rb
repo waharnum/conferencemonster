@@ -1,12 +1,14 @@
 require './conference_scraper'
 
-class InternetLibrarian2013Scraper < ConferenceScraper
-  def initialize
+class Scraper_Internet_Librarian_2008_2013 < ConferenceScraper
+  attr_reader :conference_year
+  def initialize(conference_year)
     super(session_xpath = '//td[child::a[contains(@name,"session_")]]',session_title_xpath = 'span[@class = "parahead"]',session_description_xpath = 'p',speaker_xpath = 'descendant::a[contains(@href,"speakers.asp?speaker=")]',speaker_name_xpath = '.',speaker_job_title_xpath = '../following-sibling::em[1]',speaker_works_for_xpath = '../following-sibling::em[1]')
+      @conference_year = conference_year
   end
 
   def init_scraper_conference()
-    return Conference.new("Internet Librarian","2013")
+    return Conference.new("Internet Librarian",conference_year)
   end
   
 def extract_speaker_job_title(s)

@@ -1,6 +1,6 @@
 require './conference_scraper'
 
-class InternetLibrarian2014Scraper < ConferenceScraper
+class Scraper_Internet_Librarian_2014 < ConferenceScraper
 
   def init_scraper_conference()
     return Conference.new("Internet Librarian","2014")
