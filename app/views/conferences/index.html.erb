@@ -1,5 +1,5 @@
 <ul>
 <% @conferences.each do | conference | %>
-	<li><%= conference.title %></li>	
+	<li><%= link_to conference.title, conference %></li>	
 </ul>
 <% end %>	
