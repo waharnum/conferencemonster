@@ -1,0 +1,17 @@
+<ul>
+<% @conferences.each do | conference | %>
+	<li><%= conference.title %>
+		<ul>
+			<% conference.sessions.each do | session | %>
+				<li><%= session.title %>
+					<ul>
+						<% session.speakers.each do | speaker | %>
+							<li><%= speaker.name %></li>
+						<% end %>
+					</ul>
+				</li>
+			<% end %>
+		</ul>
+	</li>	
+</ul>
+<% end %>	
