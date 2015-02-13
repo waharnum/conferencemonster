@@ -1,1 +1,6 @@
-<%= @conference.title %>
+<h1><%= @conference.title %></h1>
+<ul>
+<% @conference.sessions.each do | session | %>
+	<li><%= link_to session.title, session %></li>
+	<% end %>	
+</ul>
