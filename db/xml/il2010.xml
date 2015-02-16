@@ -1,0 +1,1794 @@
+<?xml version="1.0"?>
+<conference>
+  <title>Internet Librarian</title>
+  <year>2010</year>
+  <sessions>
+    <session>
+      <title>Library Camp Monterey@Monterey Public Library</title>
+      <description>Join us at the Monterey Public Library for an interactive discussion about using insights and imagination as info pros to add value in our communities. We&#x2019;ll talk about people, technology, and libraries, so bring your war stories and your questions and be prepared to share&#x2014;this is definitely not a &#x201C;sage on the stage&#x201D; event. (PowerPoints are forbidden!) This unstructured conversation may range from web presence to user experience to info commons to everything in between that affects all types of libraries.</description>
+      <speakers>
+        <speaker>
+          <last_name>Buckland</last_name>
+          <first_name>Amy</first_name>
+          <job_title>eScholarship</job_title>
+          <works_for>ePublishing &amp;amp; Digitization Coordinator, McGill University Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W1 &#x96; Writing for the Wired Web</title>
+      <description>Even with all the podcasts, videos, and Flash tutorials in the world, great library websites need great written content, and writing for the web provides unique opportunities and challenges. Learn to tailor your material to the medium by finding out what usability studies reveal about how people actually read online. This interactive workshop is a must for library website content contributors and webmasters who want to improve their sites and online writing style. It covers what research findings show about formatting content, writing style, typography, and layout for the web. Practice critiquing and revising sample library webpages, and get new insights.</description>
+      <speakers>
+        <speaker>
+          <last_name>Wisniewski</last_name>
+          <first_name>Jeff</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>University of Pittsburgh</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W2 &#x96; Technology Planning for Libraries</title>
+      <description>With more than 25 years of technology training for librarians between them, Sauers and Burns take you through the ins and outs of technology planning for your library. Topics include not only the whys of technology planning but also the how&#x2014;from formulating your library&#x2019;s technology goals to technologies you should be planning for now. By the end of this workshop, attendees will be prepared to return to their libraries and get the process going in this world of ever-changing tech.</description>
+      <speakers>
+        <speaker>
+          <last_name>Sauers</last_name>
+          <first_name>Michael P</first_name>
+          <job_title>Technology Innovation Librarian</job_title>
+          <works_for>Technology &amp;amp; Access Services, Nebraska Library Commission</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Burns</last_name>
+          <first_name>Christa</first_name>
+          <job_title>Special Projects Librarian</job_title>
+          <works_for>Nebraska Library Commission</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W3 &#x96; Designing Mobile Experiences</title>
+      <description>Continuous access to information is a near reality. Smartphone and mobile devices are the tools that make it all possible. Providing content to these tools and devices presents interesting design and development challenges. Lost connections, limited battery power, smaller screens, touch interfaces&#x2014; these factors create a new way of thinking about web development and design. This workshop looks at trends in mobile interfaces, mobile sites vs. mobile apps, emerging conventions for mobile design, best practices for mobile development, wizards, tools and code templates for mobile site development. Come learn how to start creating mobile sites at your library.</description>
+      <speakers>
+        <speaker>
+          <last_name>Clark</last_name>
+          <first_name>Jason A.</first_name>
+          <job_title>Digital Initiatives Librarian</job_title>
+          <works_for>Head of Digital Access and Web Services, Montana State University Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W4 &#x96; Using E-Tools to Promote Effective Use of E-Resources</title>
+      <description>Are we using the same methods to promote e-resources as we did in the past for print materials? Is there a better way to assure that our clients are aware of the e-resources available and are able to make the most of these products? This workshop guides participants through the process of developing realistic and flexible marketing strategies for e-resources utilizing Web 2.0 technologies and 21st-century approaches. It helps library staffs create a comprehensive plan of action designed to meet the needs of any library. Keiser includes discussions on mixing and matching marketing techniques to achieve desired objectives and raising awareness concerning new products and services.</description>
+      <speakers>
+        <speaker>
+          <last_name>Keiser</last_name>
+          <first_name>Barbie E.</first_name>
+          <job_title>President</job_title>
+          <works_for>Barbie E. Keiser, Inc.</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W5 &#x96; WordPress for Libraries: Blog, CMS, Social Network</title>
+      <description>At its core, WordPress is a terrific blogging system&#x2014;it&#x2019;s where its roots are. But as WordPress has matured, it&#x2019;s grown into an excellent choice for a content management system (CMS). WordPress should be a CMS option for any library looking for a dynamic online presence that makes it easy to create and publish content. With a bit of creative tweaking, WordPress is also a wonderful choice for larger, more complex sites and projects, such as learning management systems, social networks, digital archives, and even an interface for a library catalog. Topics include practical plug-ins, podcasting, theming, content types, social networking integration, site analytics, security, optimization, and much more.</description>
+      <speakers>
+        <speaker>
+          <last_name>Jones</last_name>
+          <first_name>Kyle M.L.</first_name>
+          <job_title>Ph.D. Student</job_title>
+          <works_for>LIS &amp;amp; Edu, University of Wisconsin-Madison</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Farrington</last_name>
+          <first_name>Polly-Alida</first_name>
+          <job_title>Consultant &amp;amp;  Trainer</job_title>
+          <works_for>PA Farrington Associates</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W7 &#x96; LibGuides/Campus Guides Interface Customization</title>
+      <description>LibGuides is a hosted content management system for posting subject guides, course guides, information portals, etc., to the web. The basic LibGuides display options for colors and styles are limited. This workshop goes beyond the basic options, and will provide techniques for customizing the LibGuides interface by using CSS and adding custom headers and footers. Using these techniques, it is possible to customize the interface to create a unique look for your LibGuides site. CampusGuides is a similar product and will be used in a hands-on situation. It is expected that attendees have some experience with HTML and CSS.</description>
+      <speakers>
+        <speaker>
+          <last_name>Sattler</last_name>
+          <first_name>Kelly</first_name>
+          <job_title>Digital Projects Librarian</job_title>
+          <works_for>Digital Information, Michigan State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Brandon</last_name>
+          <first_name>Jenny</first_name>
+          <job_title>Web Designer/Librarian</job_title>
+          <works_for>Michigan State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Tobias</last_name>
+          <first_name>Christine</first_name>
+          <job_title>Reference and Technology Librarian</job_title>
+          <works_for>Michigan State University Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W8 &#x96; Migrating to Drupal: Open Source Library Intranets</title>
+      <description>Intranets should provide quick and easy access to organizational information, whether in libraries or corporations. Moreover, the days of top-down communication and controlled internal messages are&#x2014;or should be&#x2014;behind us. Many libraries have been moving their intranet sites away from the traditional HTML design and toward content management systems, notably the open source product Drupal. In this interactive workshop by experienced web librarians, speakers provide accounts of migrating their libraries&#x2019; intranets into the Drupal content management system (CMS), sharing best practices and lessons learned.</description>
+      <speakers>
+        <speaker>
+          <last_name>McHale</last_name>
+          <first_name>Nina</first_name>
+          <job_title>Web Developer</job_title>
+          <works_for>Digital Services, Arapahoe Library District</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Battles</last_name>
+          <first_name>Jason J</first_name>
+          <job_title>Director</job_title>
+          <works_for>Office of Library Technology, University Libraries, The University of Alabama</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Baird</last_name>
+          <first_name>Catherine</first_name>
+          <job_title>Marketing</job_title>
+          <works_for>Communications and Outreach Librarian, McMaster University Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Vacek</last_name>
+          <first_name>Rachel</first_name>
+          <job_title>Head of Web Services</job_title>
+          <works_for>University of Houston</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Sharpe</last_name>
+          <first_name>Paul A.</first_name>
+          <job_title>Head of Liaison Services</job_title>
+          <works_for>University of Houston Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W9 &#x96; Searchers Academy: The Web, Social Media &amp;amp; Beyond</title>
+      <description>Want to sharpen your web search skills? Find information in the real-time and collaborative web? Learn from the experts? Join search veterans, speakers, and authors to learn the latest strategies and techniques for searching online. This fast-paced, newly updated, day-long event allows you to interact with the experts, who share their searching secrets and expertise as they focus on the most-current practices in the field of web research. There&#x2019;s always something new to be learned from these leading-edge panelists. Participants should have basic experience with web searching, but even searchers with an extensive searching backgroundwill find tips to polish and advance their skills and will come away with new resources and tools. Academy topics include the following:</description>
+      <speakers>
+        <speaker>
+          <last_name>Bates</last_name>
+          <first_name>Mary Ellen</first_name>
+          <job_title>Principal</job_title>
+          <works_for>Bates Information Services, Inc.</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Notess</last_name>
+          <first_name>Greg</first_name>
+          <job_title>Faculty &amp;amp; Graduate Services Librarian</job_title>
+          <works_for>Montana State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Phelps</last_name>
+          <first_name>Marcy</first_name>
+          <job_title>President</job_title>
+          <works_for>Phelps Research Inc. Author, Research on Main Street: Using the Web to Find Local Business and Market Information</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Price</last_name>
+          <first_name>Gary</first_name>
+          <job_title>Co-Founder</job_title>
+          <works_for>INFODocket &amp;amp; FullTextReports</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Sherman</last_name>
+          <first_name>Chris</first_name>
+          <job_title>Founding Editor</job_title>
+          <works_for>Search Engine Land</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W10 &#x96; Web Managers Academy: Redesign 2.0</title>
+      <description>Does your library website need to move to the next level? Consider how to do a visual makeover, add social media tools, or new embedded services. Where do you start? What&#x2019;s your strategy? See how other libraries are using content management systems (CMS), user-generated content, and database-driven content to provide customized and personalized user content. Explore how social software applications, including blogs, wikis, tagging, and RSS, fit into the mix. Learn how to analyze the strengths and weaknesses of your current site using analytic tools and usability studies. Pick up new usability methods that can help you test proposed revisions early so that the new design doesn&#x2019;t just look better but also works better for users. Pack your toolbox and take home tips, tools, checklists, and new design techniques that you can immediately put to use. Learn about common pitfalls and success factors for library redesigns. Put what you learn into practice. By working in small groups, you will immediately apply what you learn throughout the day to an ongoing &#x201C;extreme makeover of a library website.&#x201D; Topics and exercises include the redesign process; practical project management; web content management systems; and usability, engagement, and participation.</description>
+      <speakers>
+        <speaker>
+          <last_name>Fichter</last_name>
+          <first_name>Darlene</first_name>
+          <job_title>GovInfo Librarian</job_title>
+          <works_for>University of Saskatchewan Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Wisniewski</last_name>
+          <first_name>Jeff</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>University of Pittsburgh</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Breeding</last_name>
+          <first_name>Marshall</first_name>
+          <job_title>Independent Consultant and Founder of Library Technology Guides</job_title>
+          <works_for>Founder of Library Technology Guides</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Cervone</last_name>
+          <first_name>Frank</first_name>
+          <job_title>Managing Partner</job_title>
+          <works_for>Cervone and Associates</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W11 &#x96; Transforming Planning Into Decisions &amp;amp; Action</title>
+      <description>Planning has gotten a bad rap. Too often, libraries see strategic planning as a series of time-wasting meetings and flipcharts that result in a plan that&#x2019;s rarely referred to and not implemented. It doesn&#x2019;t have to be that way! Using an accelerated planning model, many successful libraries draft their plan quickly and with as much staff engagement as possible. Learn how to adapt this accelerated planning process for your library, and leave with a draft plan to discuss with your colleagues when you return to work. If your library is working on technology plans, staffing plans, succession plans, or digital service plans, start with this workshop. Whether you work in a public, academic, school, or corporate library, it&#x2019;s critical to consider the long-term implications of your library&#x2019;s future, and to engage staff and stakeholders in those decisions before you design any other plans. Jones focuses on the critical elements of strategic planning, determining your strategic goals in days &lt;span style="font-family: UnitusT-Regular; color: #231f20; font-size: xx-small;"&gt;&lt;span style="font-family: UnitusT-Regular; color: #231f20; font-size: xx-small;"&gt;&lt;span style="font-family: UnitusT-Regular; color: #231f20; font-size: xx-small;"&gt;(not months!), and, most mportantly, how to ensure these goals are implemented.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</description>
+      <speakers>
+        <speaker>
+          <last_name>Jones</last_name>
+          <first_name>Rebecca</first_name>
+          <job_title>Partner</job_title>
+          <works_for>Dysart &amp;amp; Jones Associates</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W12 &#x96; Videocasting Boot Camp</title>
+      <description>Why is video so much more engaging for clients? What is a video blog and why use one on your library&#x2019;s website? This in-depth workshop, featuring experts in the field of library podcasting and videocasting, answers these questions and more. Come explore and discuss how libraries are using videocasts for outreach and learning through a variety of case studies, including tips on what types of content work best for different types of libraries. Detailed information on what to consider when planning for and implementing videocasting at your library are provided along with an up-close and personal look at a variety of creation tools. Join this active group of video experts and have a look at some cameras, focus on the process of videocasting, learn how much time is needed for lighting and storyboarding, and how to create a successful video for your purposes.</description>
+      <speakers>
+        <speaker>
+          <last_name>Free</last_name>
+          <first_name>David W.</first_name>
+          <job_title>Editor-in-Chief</job_title>
+          <works_for>C&amp;amp;RL News, &amp;amp; Marketing &amp;amp; Communications Specialist, Association of College and Research Libraries (ACRL)</works_for>
+        </speaker>
+        <speaker>
+          <last_name>King</last_name>
+          <first_name>David Lee</first_name>
+          <job_title>Digital Services Director</job_title>
+          <works_for>Topeka &amp;amp; Shawnee County Public Library and Publisher, davidleeking.com</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Porter</last_name>
+          <first_name>Michael</first_name>
+          <job_title>President</job_title>
+          <works_for>Library Renewal libraryman.com</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W13 &#x96; Web Developer's Boot Camp: Basic Programming Skills for Adding Value to Library Info</title>
+      <description>Are you a solo web developer with an interest in learning basic web scripting? A newbie thrown into your library web programming role because nobody else raised their hand? Somebody with a little more experience but always looking to improve your programming skills? This workshop is for you. We&#x2019;ll work through the basics of web programming, simple-to-use embed code, and highlight resources to continue learning. Our emphasis will be on mashups and web services as a means to practice these skills. Featured topics include image mashups using JavaScript and Flickr; simple data visualization with the Google Charts API; search suggestions using the Yahoo! BOSS API; mapping data with Google Maps; learning how JavaScript (jQuery) and PHP work together to create advanced search mashups with the Worldcat API; widgets and gadgets that plug/play with Worldcat and other bibliographic services; wizards and tools to simplify mashup and programming processes including Yahoo! Pipes and Google Code Playground. Note: Attendees are encouraged to bring a laptop to play along with the examples and have a familiarity with HTML.</description>
+      <speakers>
+        <speaker>
+          <last_name>Clark</last_name>
+          <first_name>Jason A.</first_name>
+          <job_title>Digital Initiatives Librarian</job_title>
+          <works_for>Head of Digital Access and Web Services, Montana State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Hollister</last_name>
+          <first_name>Amanda</first_name>
+          <job_title>Systems Librarian</job_title>
+          <works_for>Broome Community College</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W15 &#x96; From Media Monitoring to Media Insight</title>
+      <description>Media monitoring as we know it is evolving. Learn the latest methods, tools, and techniques used in the world of communications, politics and public affairs to extend your existing monitoring service with insight and analysis for better decision making. This hands-on workshop introduces you to simple and advanced tools you can use immediately. It includes a survey of the latest tools and applications and illustrates their use with real world products and services. This workshop will be of interest to competitive intelligence professionals and anyone looking to ramp up their media monitoring service and to impress their customers.</description>
+      <speakers>
+        <speaker>
+          <last_name>Lee</last_name>
+          <first_name>Daniel</first_name>
+          <job_title>Director</job_title>
+          <works_for>Knowledge Services, Navigator Ltd</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W16 &#x96; UX4Lib: Designing Digital Spaces for Positive User Experiences</title>
+      <description>Learn how and why to create positive user experiences in your interactive digital spaces. Work with two experts in library web design and user experience design to learn some tips, tricks, and best practices that you can implement immediately. Discover best practices for designing interactive digital spaces: websites, catalogs, mobile devices, and even managing web presences we have little control over (like database interfaces, ebook interfaces, and social media sites). Come and learn to do the following: improve the overall usability of your digital spaces; design to meet user needs and goals as well as your own organizational objectives; improve the elegance and beauty of your designs; reduce the number of steps users must take to meet their objectives; reduce excessive features that do not meet user needs; and create manageable project plans to implement user experience design at your library.</description>
+      <speakers>
+        <speaker>
+          <last_name>Houghton</last_name>
+          <first_name>Sarah</first_name>
+          <job_title>Director</job_title>
+          <works_for>San Rafael Public Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Schmidt</last_name>
+          <first_name>Aaron</first_name>
+          <job_title>Principal</job_title>
+          <works_for>Influx Library User Experience &amp;amp; Publisher, walkingpaper.org</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W17 &#x96; Technology Planning: What's on Your Horizon?</title>
+      <description>If you want to lead the pack, you need to be planning for lots of different technologies, challenges, and issues. Our leading thinker and practitioner challenges you to think about building strategies and plans for both nearand long-term technology challenges and opportunities. In this interactive workshop, Tennant describes a variety of technologies (e.g., mobile computing, electronic books, data visualization, etc.), illustrates how they impact libraries, and supplies library examples where they exist. You&#x2019;ll leave not only with some tools for planning for technological change, but also with a sense of where things are now and where we are headed.</description>
+      <speakers>
+        <speaker>
+          <last_name>Tennant</last_name>
+          <first_name>Roy</first_name>
+          <job_title>Senior Program Officer</job_title>
+          <works_for>Research, OCLC Online Computer Library Center, Inc.</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W18 &#x96; Screencasting: Tips &amp;amp; Tricks for Fast &amp;amp; Easy Online Tutorials</title>
+      <description>Online tutorials can be extremely time-intensive to create. Screencasts offer quicker ways to create informative tutorials that demonstrate online library resources or anything else on the web or your desktop. New tools make it quick and easy to create screencasts and host them online. Explore using free and fee software such as Jing, Camtasia Studio, and web-based services to quickly create online tutorials for your users. Compare hosting options at Screencast.com, YouTube, Blip.TV, or Freescreencast. In addition to gathering proven tips, techniques, and tricks to quick screencast creation, see examples of advanced editing features such as call outs, transitions, zooming, and highlights. Bring your own laptop to check out sites that are discussed. Show and tell the easy way!</description>
+      <speakers>
+        <speaker>
+          <last_name>Notess</last_name>
+          <first_name>Greg</first_name>
+          <job_title>Faculty &amp;amp; Graduate Services Librarian</job_title>
+          <works_for>Montana State University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W19 &#x96; Handheld Librarians' Mobile Tech Tutorial</title>
+      <description>This interactive and hands-on workshop provides a complete overview of mobile technologies, discusses the concept of the mobile revolution, and shares the potential applications to libraries. This tailored learning experience includes expert guest speakers presenting ideas originally shared at the online Handheld Librarian conferences. The workshop outlines the major mobile technologies available for libraries and exact methods for applying them with strategies for success. It focuses on interactive discussions enhanced by the mobile tools themselves and features immersive hands-on learning and playing to deliver specific take-aways that attendees can immediately apply to their libraries. Bring your laptop/notebook/mobile device/tablet!</description>
+      <speakers>
+        <speaker>
+          <last_name>Murphy</last_name>
+          <first_name>Joe</first_name>
+          <job_title>Library Directions &amp;amp; Tech Trends Analyst. Director Library Futures.</job_title>
+          <works_for>Library Future Innovative Interfaces, Yale Uni</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Mairn</last_name>
+          <first_name>Chad</first_name>
+          <job_title>Information Services Librarian</job_title>
+          <works_for>St. Petersburg College</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>W20 &#x96; HTML5 &amp;amp; CSS3: New Markup &amp;amp; Styles for the Emerging Web</title>
+      <description>HTML5 and CSS3 have been released and are changing the way web developers work with geolocation, native video, offline storage, semantic markup elements, canvas elements, drag and drop, opacity, gradients, and more. With wide support in mobile browsers and the latest browser releases from Google and Firefox, HTML5 and CSS3 are poised to be the new technologies to build the next version of the web. Clark, who builds digital library applications and sets digital content strategy, looks at some of the possibilities, trends, and enhancements that HTML5 and CSS3 enable, talks through specifics of implementation and how you can get started using HTML5 and CSS3 in your apps today, suggests ideas for library applications, and shares tips and techniques for using the full power of these new tools.</description>
+      <speakers>
+        <speaker>
+          <last_name>Clark</last_name>
+          <first_name>Jason A.</first_name>
+          <job_title>Digital Initiatives Librarian</job_title>
+          <works_for>Head of Digital Access and Web Services, Montana State University Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Gaming &amp;amp; Gadgets Petting Zoo</title>
+      <description>Join our gamers and gadget lovers for an evening of fun and playing. Bring your latest games and gadgets and try out each others. See if you are a guitar hero, winning Wii bowler/golfer, or rank as a dancing DDR expert. Led by gamer/gadget gurus Aaron Schmidt, Jenny Levine and Erik Boekesteijn, this evening is filled with fun, networking, and of course, learning and laughing. Meet Scott Nicholson, Author of Everyone Plays Games at the Library, get him to sign your book, and try out the games he is featuring!&#xA0; Refreshments included.</description>
+      <speakers/>
+    </session>
+    <session>
+      <title>OPENING KEYNOTE &#x97; Adding Value to Your Community</title>
+      <description>Patricia Martin, marketing expert and author of the popular book, Renaissance Generation, shares her most current research on what we can expect from the coming cycle of re-birth. A sought after strategist, Martin has worked with clients such as Discovery Channel, Microsoft and Target. She reveals what lies at the beating heart of the social movements forming the next wave of prosperity. Martin understands our challenges and provides solid ideas for how libraries should respond so they are reborn, not left behind. You will learn how to apply the insights to position your library as a critical asset in your community, whether it's a town, a campus or an organization.</description>
+      <speakers>
+        <speaker>
+          <last_name>Martin</last_name>
+          <first_name>Patricia</first_name>
+          <job_title>CEO</job_title>
+          <works_for>Litlamp Communications &amp;amp; Author, Renaissance Generation: The Rise of the Cultural Consumer and What It Means to Your Business</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A101 &#x96; Search Engine Update</title>
+      <description>So what&#x2019;s happening in search engine land? Sherman examines how things are changing in the search space and makes predictions of what we should be paying attention to in the coming year. He discusses the implications of the evolving changes for internet librarians and gives us some insight as to what to expect in the future.</description>
+      <speakers>
+        <speaker>
+          <last_name>Sherman</last_name>
+          <first_name>Chris</first_name>
+          <job_title>Founding Editor</job_title>
+          <works_for>Search Engine Land</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A102 &#x96; Super Searcher Tips Spectacular!</title>
+      <description>One of our most popular sessions returns to turbocharge your web research. Our celebrated super searcher and host of Searchers Academy provides an updated-to-the-minute and jam-packed-with-valuable-tips talk about searching the web more effectively. You don&#x2019;t need to be an expert to use these techniques, but even long-time researchers will learn from them.</description>
+      <speakers>
+        <speaker>
+          <last_name>Bates</last_name>
+          <first_name>Mary Ellen</first_name>
+          <job_title>Principal</job_title>
+          <works_for>Bates Information Services, Inc.</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>A103 &#x96; Search Discovery Tools</title>
+      <description>The latest buzz word in metasearching of library resources is "discovery." Many libraries are moving to discovery tools like Summon, Primo, and World-Cat Local to enable easier and more comprehensive searching of library resources. Explore the current state of the art in these discovery tools, and discover where they work well along with their gaps and search failures.</description>
+      <speakers>
+        <speaker>
+          <last_name>Notess</last_name>
+          <first_name>Greg</first_name>
+          <job_title>Faculty &amp;amp; Graduate Services Librarian</job_title>
+          <works_for>Montana State University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A104 &#x96; Bing: Under the Hood &amp;amp; Super Search Strategies</title>
+      <description>Our experienced searcher and popular publisher Price provides a guided tour of the features and benefits of Bing for searchers and then interviews Microsoft&#xA0;Librarian Program Managers who share more search secrets and strategies of the search engine and also some directions for the future.</description>
+      <speakers>
+        <speaker>
+          <last_name>Price</last_name>
+          <first_name>Gary</first_name>
+          <job_title>Co-Founder</job_title>
+          <works_for>INFODocket &amp;amp; FullTextReports</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Smith</last_name>
+          <first_name>Kendra</first_name>
+          <job_title>Microsoft Librarian and Program Manager</job_title>
+          <works_for>Microsoft</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Huston</last_name>
+          <first_name>Kevan</first_name>
+          <job_title>Microsoft Library Program Manager</job_title>
+          <works_for>Microsoft Corporation</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A105 &#x96; Better than Google Scholar?</title>
+      <description>The first talk describes the results of usability testing with students using the Summon Discovery Layer, a hosted search service provided by Serials Solutions. Summon searches the library catalog, index and abstracting databases and full-text journal collections (as well as other targets). It reports on a comparison of results between Summon and Google Scholar, and how journal usage changed after Summon was implemented. The second presentation explores the use of semantic technology for more relevant search. It describes the downloading and conversion of PubMed/Medline records from the given XML to Resource Description Framework (RDF) using the Dublin Core metadata vocabulary, then linked to a MARC data set. It shares results from the searcher&#x2019;s perspective and discusses the implications for the future of search.</description>
+      <speakers>
+        <speaker>
+          <last_name>Keiller</last_name>
+          <first_name>Karen</first_name>
+          <job_title>Head</job_title>
+          <works_for>Libraries Electronic Technologies and Services, University of Manitoba</works_for>
+        </speaker>
+        <speaker>
+          <last_name>O'Hara</last_name>
+          <first_name>Lisa</first_name>
+          <job_title>Head</job_title>
+          <works_for>Technical Services, University of Manitoba</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Ford</last_name>
+          <first_name>Lyle</first_name>
+          <job_title>Off-Campus Librarian</job_title>
+          <works_for>Elizabeth Dafoe Library, University of Manitoba</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Keegan</last_name>
+          <first_name>Kerry Anne</first_name>
+          <job_title>Head of Access Services</job_title>
+          <works_for>Stony Brook University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Bremer</last_name>
+          <first_name>Erich</first_name>
+          <job_title>Associate Director for Department of Medical Informatics</job_title>
+          <works_for>Stony Brook University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Balsamo</last_name>
+          <first_name>Joseph</first_name>
+          <job_title>Assistant Director of Library Information Systems</job_title>
+          <works_for>Health Sciences Library, Stony Brook University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A106 &#x96; Next Gen Discovery Systems</title>
+      <description>What&#x2019;s the real scoop on next gen interfaces? Come to this session and hear the good, bad, and ugly on how these next gen interfaces work in the real world. Our implementors pull no punches in evaluating and assessing the state of the next gen landscape of discovery system interfaces for finding what you really want.</description>
+      <speakers>
+        <speaker>
+          <last_name>Cervone</last_name>
+          <first_name>Frank</first_name>
+          <job_title>Managing Partner</job_title>
+          <works_for>Cervone and Associates</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Breeding</last_name>
+          <first_name>Marshall</first_name>
+          <job_title>Independent Consultant and Founder of Library Technology Guides</job_title>
+          <works_for>Founder of Library Technology Guides</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Wisniewski</last_name>
+          <first_name>Jeff</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>University of Pittsburgh</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B101 &#x96; The Library eBranch: More Than Just a Website</title>
+      <description>This session describes the planning process and key decisions in creating an eBranch &#x2014; from choosing a CMS, web developer, Drupal themes, item and event carousels, embedded video, Flickr, social sharing tools, booklists and, more. Find out how user accounts can simplify access to databases, downloadable ebooks/e-audiobooks, and the catalog using autologin. Learn how to effectively engage staff in content development and improving the catalog user experience with SOPAC 2.1. Speakers share insights and lessons learned in development and rollout of an eBranch.</description>
+      <speakers>
+        <speaker>
+          <last_name>Finklang</last_name>
+          <first_name>Julie</first_name>
+          <job_title>eBranch Manager</job_title>
+          <works_for>San Mateo County Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Miranda</last_name>
+          <first_name>Cris</first_name>
+          <job_title>Web Designer</job_title>
+          <works_for>San Mateo County Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Risley</last_name>
+          <first_name>Carine</first_name>
+          <job_title>Atherton and Brisbane Library Branch Manager</job_title>
+          <works_for>San Mateo County Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Stevens</last_name>
+          <first_name>Katherine</first_name>
+          <job_title>Project Manager and Instructional Designer</job_title>
+          <works_for>Isite Design</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B102 &#x96; Information Architecture &amp;amp; Navigation</title>
+      <description>Great websites are easy to navigate and find the information you need.&#xA0; Speakers with experience in navigation and findability share insights into building a solid website foundation that helps users. Emanuel tackles the &#x201C;disorganized&#x201D; website built by well-intentioned staff with no significant training on usability, accessibility, or information architecture. She focuses on strategies and practical tools systems staff and librarians can use to inform each other about information architecture practices to create and maintain a better website. Erdman takes the view that perhaps it&#x2019;s not in the content but in the delivery that encourages users to start with Google and other search engines rather than libraries, which have so much more content. She describes how one library changed the way the website is navigated in order to give users more confidence in selecting databases and easier access to help if they need added support. Goodbye lists and links, and hello browseable, sortable, and discovery-based website.</description>
+      <speakers>
+        <speaker>
+          <last_name>Emanuel</last_name>
+          <first_name>Jenny</first_name>
+          <job_title>Digital Services &amp;amp; Reference Librarian</job_title>
+          <works_for>University of Illinois at Urbana-Champaign</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Erdman</last_name>
+          <first_name>Jacquelyn Marie</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>East Carolina University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>B103 &#x96; Dashboards, Data, and Decisions</title>
+      <description>In a car, you rely on the dashboard to indicate important data about the operation of the vehicle. Digital library dashboards give views of the data and statistics you need to smoothly run your library. Balsamo explains the process of creating a digital dashboard that allows users to customize which data they see and how it is visualized. He discusses the collection of disparate data, the design of the instruments, and the final solution that provides the data needed by staff anywhere and anytime. Trainor shows how to take your library beyond anecdotes to start putting the data to work and emphasizes the importance of choosing the right indicators for your dashboard. She explains how one academic library is using readily available statistics to aid in making decisions about library hours, website design, strategic planning, and collection management.</description>
+      <speakers>
+        <speaker>
+          <last_name>Balsamo</last_name>
+          <first_name>Joseph</first_name>
+          <job_title>Assistant Director of Library Information Systems</job_title>
+          <works_for>Health Sciences Library, Stony Brook University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Trainor</last_name>
+          <first_name>Cindi</first_name>
+          <job_title>Coordinator for Library Technology and Data Services</job_title>
+          <works_for>Eastern Kentucky University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B104 &#x96; Managing Your Library's Online Presence</title>
+      <description>As libraries create profiles and mini-sites on social networking platforms, how can they manage their identity across a variety of interfaces and tools? Koerber draws on examples from Blogger, Google, Flickr, Delicious, Library-Thing and Facebook to provide a checklist of steps to create a professional, consistent identity through writing, visual elements, skins, and overlays. Many organizations do not have a web strategy that is in alignment with the overall organization&#x2019;s strategy, often resulting in an understaffed web library, the first and primary contact. Ho looks at what is involved in running a web library and its virtual service points (Facebook, Twitter, mashups), and proposes a staff model to make a web library successful. Brazil discusses tools and procedures that can effectively help you manage your virtual customer interactions (especially complaints), provide immediate virtual technical assistance and help you use the data collected to improve services. Employing techniques shared in this session can result in less staff stress and confusion about responding to customer feedback and, most importantly, happy customers who are satisfied that their voices have been heard.</description>
+      <speakers>
+        <speaker>
+          <last_name>Koerber</last_name>
+          <first_name>Jennifer</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>Boston Public Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Ho</last_name>
+          <first_name>SuHui</first_name>
+          <job_title>Digital Services Librarian</job_title>
+          <works_for>University of California, San Diego</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Brazil</last_name>
+          <first_name>Colleen</first_name>
+          <job_title>Content Access Manager</job_title>
+          <works_for>Sno-Isle Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B105 &#x96; Brand Awareness: Lessons for Libraries</title>
+      <description>The Colorado State University Libraries team shares the results of test-marketing Google AdWords and Facebook advertisements as a method of reaching students who will likely never make it to the library homepage. They discuss ways to reach an audience for whom the word &#x201C;library&#x201D; is not synonymous with &#x201C;information&#x201D; or &#x201C;research.&#x201D; Hear how three Rhode Island academic libraries are using QR codes, Jing, XtraNormal, blogs, social networks, e-branding and more to create informative and eye-catching marketing campaigns for their communities. Tips from recent books and reports, including Marketing Today&#x2019;s Academic Library by Brian Mathews and the &#x201C;2010 Horizon Report,&#x201D; emphasize their points. Speakers provide many practical take-aways that have little or no cost to start up in your environment.</description>
+      <speakers>
+        <speaker>
+          <last_name>Wilde</last_name>
+          <first_name>Michelle</first_name>
+          <job_title>Librarian for the College of Veterinary Medicine and Biological Sciences</job_title>
+          <works_for>Colorado State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Cranston</last_name>
+          <first_name>Cathy</first_name>
+          <job_title>Associate Professor / Instruction Librarian</job_title>
+          <works_for>Colorado State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Feldmann</last_name>
+          <first_name>Louise</first_name>
+          <job_title>Business &amp;amp; Economics Librarian</job_title>
+          <works_for>Colorado State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Pulliam</last_name>
+          <first_name>Beatrice</first_name>
+          <job_title>Library Commons Librarian for Technology &amp;amp; Access</job_title>
+          <works_for>Providence College</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Kohl</last_name>
+          <first_name>Laura</first_name>
+          <job_title>Head of Reference Services</job_title>
+          <works_for>Douglas &amp;amp; Judith Krupp Library, Bryant University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Resendes</last_name>
+          <first_name>Talia</first_name>
+          <job_title>Digital Services Librarian</job_title>
+          <works_for>Springshare Former Digitial Services Librarian @ Johnson &amp;amp; Wales University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B106 &#x96; Digital Managers Sound Off!</title>
+      <description>Have you seen jobs listed lately? Digital initiatives librarian? Digital branch manager? Digital strategies manager? Ever wondered what these people do at a library, and why they&#x2019;re needed? This session introduces you to a digital strategies manager job and a digital branch. Panelists discuss their unique roles in their libraries, what their day-to-day jobs look like, and the unique challenges they encounter along the way. And more importantly, they provide tips on how you can use this new role in your library and in your current job.</description>
+      <speakers>
+        <speaker>
+          <last_name>King</last_name>
+          <first_name>David Lee</first_name>
+          <job_title>Digital Services Director</job_title>
+          <works_for>Topeka &amp;amp; Shawnee County Public Library and Publisher, davidleeking.com</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Newman</last_name>
+          <first_name>Bobbi L.</first_name>
+          <job_title>Consultant</job_title>
+          <works_for>writer, Librarian by Day</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Houghton</last_name>
+          <first_name>Sarah</first_name>
+          <job_title>Director</job_title>
+          <works_for>San Rafael Public Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Hamilton</last_name>
+          <first_name>Matthew</first_name>
+          <job_title>IT Manager</job_title>
+          <works_for>Denver Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C101 &#x96; Mobile That Works for Your Library</title>
+      <description>With the recent mobile explosion, it&#x2019;s becoming increasingly important that libraries have a mobile presence. But how best to do it? An app? Which platform(s)? What about a mobile website? Is one better than the other? Wisniewski looks at the options available to libraries to establish a mobile presence, the pros and cons, and provides valuable tips for choosing a mobile strategy that&#x2019;s right for your library.</description>
+      <speakers>
+        <speaker>
+          <last_name>Wisniewski</last_name>
+          <first_name>Jeff</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>University of Pittsburgh</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C102 &#x96; Designing a Mobile Experience</title>
+      <description>The first presentation highlights a mobile version of an academic library website that values accessibility and functionality that was developed using core features and custom modules of Drupal&#x2019;s content management system, an open source product. The site is accessed using any mobile browser but is optimized for the iPhone and other JavaScript-enabled mobile devices. Hear about all the features (catalog search, Ebsco&#x2019;s mobile interface for journal searching, text, IM, email and voice, hours, Google Maps, the library&#x2019;s Twitter feed, Facebook, and library blog). McLaughlin discusses the process of building and hosting a web app for the iPhone using the jQTouch framework. District of Columbia Public Library released its iPhone app at the beginning of 2009 and was the first of a handful of libraries that currently have apps in the App Store. Without the necessary programming resources in-house or the funds to pay for outside development, you can rely on existing personnel (web developers) and resources (a web server) to build a polished web app in-house. Open source tools such as jQTouch offer a framework for developing a single app that works across iPhone, Android, and webOS devices. These apps have the look and feel of a native iPhone app and can be updated at any moment by the library, rather than on Apple&#x2019;s timeframe</description>
+      <speakers>
+        <speaker>
+          <last_name>Michel</last_name>
+          <first_name>Jason</first_name>
+          <job_title>User Experience Librarian</job_title>
+          <works_for>Miami University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Sekyere</last_name>
+          <first_name>Kwabena</first_name>
+          <job_title>Electronic Information Services Librarian</job_title>
+          <works_for>Miami University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>McLaughlin</last_name>
+          <first_name>Dave</first_name>
+          <job_title>Web Services Manager</job_title>
+          <works_for>Harford County Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>C103 &#x96; Foursquare, Location-Based Social Networks &amp;amp; Library Apps</title>
+      <description>&#x201C;Check in&#x201D; at this program and check out the hot tech trend of locationbased tools and games that is sweeping the web and changing the way we interact with places and with each other via our mobile phones. Learn about services such as Foursquare, Gowalla, MyTown, and more, and become familiar with their uses and functions. Hear all about the tools and concepts of this trend and its impacts on libraries. This session gives an in depth exploration of possible library applications of these geo-based mobile/social gaming services, looks at library projects and web applications that make location a primary browse and search point, and discusses implementation considerations. Participants will learn everything they need to know as information professionals about location-based social networks in this interactive session that will employ the technologies themselves to enhance hands-on learning.</description>
+      <speakers>
+        <speaker>
+          <last_name>Murphy</last_name>
+          <first_name>Joe</first_name>
+          <job_title>Library Directions &amp;amp; Tech Trends Analyst. Director Library Futures.</job_title>
+          <works_for>Library Future Innovative Interfaces, Yale Uni</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Clark</last_name>
+          <first_name>Jason A.</first_name>
+          <job_title>Digital Initiatives Librarian</job_title>
+          <works_for>Head of Digital Access and Web Services, Montana State University Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C104 &#x96; Mobile Usability</title>
+      <description>As libraries increasing look to develop a mobile presence, it&#x2019;s important that this mobile presence be user-friendly. While usability testing of our standard websites is something many libraries have experience with, testing and evaluating mobile is new to many. This workshop explores usability considerations in designing mobile sites, looks at the special considerations inherent in testing for mobile, and specific ways to test and gather feedback from our mobile users.</description>
+      <speakers>
+        <speaker>
+          <last_name>Wisniewski</last_name>
+          <first_name>Jeff</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>University of Pittsburgh</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C105 &#x96; Mobile Content</title>
+      <description>Choosing content and providing access for mobile devices is an exciting challenge for libraries. Evolving formats, new size considerations, and platform choices affect readability, usability, and accessibility. This session discusses some ways of meeting these challenges to bring content to our mobile patrons and addresses the shifting roles of content providers in a world of mobile information.</description>
+      <speakers>
+        <speaker>
+          <last_name>Fox</last_name>
+          <first_name>Megan K</first_name>
+          <job_title>Director of Knowledge Management and IT</job_title>
+          <works_for>Jobs for the Future</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C106 &#x96; Mobile Future</title>
+      <description>What are some of the mobile programs currently in development? What are other organizations doing that libraries can learn from? Hear what our experienced and forward-thinking panel highlights and what we should be paying attention to in the next year to shape our plans for a mobile future. An interactive discussion of topics from the day will be included.</description>
+      <speakers>
+        <speaker>
+          <last_name>Murphy</last_name>
+          <first_name>Joe</first_name>
+          <job_title>Library Directions &amp;amp; Tech Trends Analyst. Director Library Futures.</job_title>
+          <works_for>Library Future Innovative Interfaces, Yale Uni</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Lee</last_name>
+          <first_name>Daniel</first_name>
+          <job_title>Director</job_title>
+          <works_for>Knowledge Services, Navigator Ltd</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Mairn</last_name>
+          <first_name>Chad</first_name>
+          <job_title>Information Services Librarian</job_title>
+          <works_for>St. Petersburg College</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D101 &#x96; Faculty &amp;amp; Library Partnership for Learning</title>
+      <description>Rebecca Jones interview two practitioners about their approaches in working with faculty to support curriculum and deliver "learning". Hear how McGill liaison librarians (the bulk of our librarian staff) do instruction, how some liaise exclusively with faculty and grad students through scholarly communication and publishing initiatives, and how they partner on grants with faculty.&#xA0; Learn how CSU is embedding librarians into online courses in the Moodle learning management system, and more.</description>
+      <speakers>
+        <speaker>
+          <last_name>Buckland</last_name>
+          <first_name>Amy</first_name>
+          <job_title>eScholarship</job_title>
+          <works_for>ePublishing &amp;amp; Digitization Coordinator, McGill University Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Helfer</last_name>
+          <first_name>Doris Small</first_name>
+          <job_title>Sciences</job_title>
+          <works_for>Social Sciences and Humanities Librarian, Oviatt Library, California State University, Northridge</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D102 &#x96; Libraries in a Transliterate, Technology Fluent World</title>
+      <description>The skills needed to be an active participant in today&#x2019;s society are rapidly evolving. More is needed than the ability to read and write; digital literacy, media literacy, information literacy, 21st-century literacy, and other new literacies are all included in transliteracy. Newman begins the session, looking at the importance of transliteracy, the roles libraries play in educating patrons. and what we can do to ensure our staff and patrons are transliterate. Harris discusses the skills library staff must have to adapt to rapidly changing technologies and innovative implementations and how library managers can help staff develop and maintain the technical skills libraries need by using skill evaluation, development planning, peer-to-peer training, and more.</description>
+      <speakers>
+        <speaker>
+          <last_name>Newman</last_name>
+          <first_name>Bobbi L.</first_name>
+          <job_title>Consultant</job_title>
+          <works_for>writer, Librarian by Day</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Harris</last_name>
+          <first_name>Colleen S.</first_name>
+          <job_title>Head of Access Services</job_title>
+          <works_for>University of Tennessee &#x96; Chattanooga</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>D103 &#x96; Videocasts and Podcasts</title>
+      <description>Creating professional-looking videocasts and podcasts is much easier and less expensive than ever. The first talk outlines a collaborative videocast project between faculty and librarians that resulted in creating a series of videocasts promoting a community health initiative. The second presentation describes the successful outreach videos created by McMaster University Library, and highlights the creative process and technology behind the creation of online video. They share preliminary data from a survey of Canadian academic libraries asking: &#x201C;How can we be sure that the promotional work we are doing is adding value to the online user experience? How will mobile technology impact the library&#x2019;s use of online video?&#x201D;</description>
+      <speakers>
+        <speaker>
+          <last_name>Bailey</last_name>
+          <first_name>Ray</first_name>
+          <job_title>Instructional Technology Librarian</job_title>
+          <works_for>Morehead State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Blunt</last_name>
+          <first_name>Gina</first_name>
+          <job_title>Assistant Professor</job_title>
+          <works_for>Morehead State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Magner</last_name>
+          <first_name>Monica</first_name>
+          <job_title>Associate Professor</job_title>
+          <works_for>Morehead State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Godfrey</last_name>
+          <first_name>Krista</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>Memorial University of Newfoundland</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Baird</last_name>
+          <first_name>Catherine</first_name>
+          <job_title>Marketing</job_title>
+          <works_for>Communications and Outreach Librarian, McMaster University Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>McCann</last_name>
+          <first_name>Shawn</first_name>
+          <job_title>Immersive Librarian</job_title>
+          <works_for>McMaster University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D104 &#x96; Facebook as a Learning Management Tool</title>
+      <description>Facebook&#x2019;s Notes field is perfect for readings, the discussion forum fosters conversation, and the Wall is easy for sharing assignments and questions. Gallaway shares the challenges and successes of this twist on the classic 23 Things challenge. The second team of speakers describe their use of Facebook for two courses and offer practical suggestions on using Facebook as a learning management tool, protecting student personal information, and sharing course materials.</description>
+      <speakers>
+        <speaker>
+          <last_name>Gallaway</last_name>
+          <first_name>Beth</first_name>
+          <job_title>Independent Library Consultant</job_title>
+          <works_for>Information Goddess Consulting and Author, Game On! Gaming at the Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Fernekes</last_name>
+          <first_name>Bob</first_name>
+          <job_title>Information Services Librarian</job_title>
+          <works_for>Zach S. Henderson Library, Georgia Southern University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>French</last_name>
+          <first_name>Jean H</first_name>
+          <job_title>Lecturer of Computer Science</job_title>
+          <works_for>Department of Computer Science &amp;amp; Information Systems, Coastal Carolina University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D105 &#x96; Ninging It</title>
+      <description>How do you engage students with information literacy content throughout a 3-credit hour semester course? Six librarians teaching different sections of a course in the Interactive Media Studies department bypassed institution-supported course management software. Instead, instructors chose Ning, a free site that allows individuals to create public or private social networks. Content of each network was customized to meet each section&#x2019;s individual learning outcomes. This presentation describes how instructors engaged students in information literacy concepts utilizing tools such as Twitter, RSS feeds, blogs, and podcasts via Ning. Speakers give specific examples of how the tools enhanced student learning, the lessons learned, and challenges faced along the way.</description>
+      <speakers>
+        <speaker>
+          <last_name>Sullivan</last_name>
+          <first_name>Elizabeth</first_name>
+          <job_title>Psychology Librarian</job_title>
+          <works_for>Miami University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Gibson</last_name>
+          <first_name>Katie</first_name>
+          <job_title>Humanities Librarian</job_title>
+          <works_for>Miami University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Hartsell-Gundy</last_name>
+          <first_name>Arianne</first_name>
+          <job_title>Humanities Librarian</job_title>
+          <works_for>Miami University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Thornley</last_name>
+          <first_name>Amy</first_name>
+          <job_title>Education Librarian</job_title>
+          <works_for>Miami University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D106 &#x96; Beyond 23 Things: For Staff &amp;amp; for Patrons</title>
+      <description>By now, the 23 Things concept is familiar to library administrators and staff across the country. Some have tried it out, some have tried a version of it, and some still have doubts about whether it will work in their library. Burns has been involved with the NLC&#x2019;s 23 Things online program, first as a 16 - week program in 2008&#x2013;2009, and then continued in a slightly different approach. At the other end of the spectrum, Alcorn has worked with individual libraries and regional library support systems across Iowa, offering training on some of the things that encompass Web 2.0 for libraries. Koerber presents what &#x201C;23 Things for Patrons&#x201D; could look like. She examines the possibilities, pitfalls; a variety of organizational tools that can scale to a large, diverse participant base; and presents several models as starting points for your own community training project. You&#x2019;ll come away with relevant examples, the latest developments, and a list of resources.</description>
+      <speakers>
+        <speaker>
+          <last_name>Alcorn</last_name>
+          <first_name>Louise E</first_name>
+          <job_title>Reference Technology Librarian</job_title>
+          <works_for>West Des Moines (Iowa) Public Library Executive Board Member, Iowa Library Assn</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Burns</last_name>
+          <first_name>Christa</first_name>
+          <job_title>Special Projects Librarian</job_title>
+          <works_for>Nebraska Library Commission</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Koerber</last_name>
+          <first_name>Jennifer</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>Boston Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>OPENING KEYNOTE &#x97; Adding Value: CIO Insights</title>
+      <description>Technology and the ever-changing web have enabled librarians and information professionals to transform their environments and services. But what does the future hold? Hear from a panel of chief information officers who have a long history with libraries in the public and academic sectors. Gain insights, stretch your imagination, and spark innovative ideas for adding even more value in your environment.</description>
+      <speakers>
+        <speaker>
+          <last_name>Ridley</last_name>
+          <first_name>Mike</first_name>
+          <job_title>Librarian</job_title>
+          <works_for>University of Guelph</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Scheeder</last_name>
+          <first_name>Donna</first_name>
+          <job_title>Deputy Chief Information Officer</job_title>
+          <works_for>Congressional Research Service, Library Of Congress</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Tonjes</last_name>
+          <first_name>Chris</first_name>
+          <job_title>Director</job_title>
+          <works_for>Information Technology, District of Columbia Public Library (DCPL)</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>A201 &#x96; Fail! Learn! Share!</title>
+      <description>This panel features some of the most spectacular failures in the history of librarianship and the equally spectacular lessons learned as a result. Hear how we&#x2019;ve failed in creating web portals, effecting change in our institutions, creating effective staff tools, training, getting staff buy-in, and jumping on board with tech trends just a wee bit too early. We are proud that we failed, as it means we were pushing the boundaries of the status quo. Learn from our mistakes, hear what we did wrong, and save yourself from the same spectacular FAILS!</description>
+      <speakers>
+        <speaker>
+          <last_name>Houghton</last_name>
+          <first_name>Sarah</first_name>
+          <job_title>Director</job_title>
+          <works_for>San Rafael Public Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Silk</last_name>
+          <first_name>Kimberly</first_name>
+          <job_title>Data Librarian</job_title>
+          <works_for>Martin Prosperity Institute, University of Toronto</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Gallaway</last_name>
+          <first_name>Beth</first_name>
+          <job_title>Independent Library Consultant</job_title>
+          <works_for>Information Goddess Consulting and Author, Game On! Gaming at the Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Shuping</last_name>
+          <first_name>Andrew</first_name>
+          <job_title>Interlibrary Loan Librarian &amp;amp; Public Services Librarian</job_title>
+          <works_for>Mercer University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Hazel</last_name>
+          <first_name>Margaret</first_name>
+          <job_title>Virtual Branch &amp;amp; Innovative Technology Manager</job_title>
+          <works_for>Eugene Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A202 &#x96; Learning From Failure</title>
+      <description>Failure: We all do it. Failure comes in many shapes and sizes. What can make or break you and your projects is how you respond to failure. No one likes it, but avoiding (or trying to) isn&#x2019;t the answer either. Taking risks and being willing to fail is just as important as your reactions. This session talks about personal and project failure, reactions, and the lessons you can learn.</description>
+      <speakers>
+        <speaker>
+          <last_name>Newman</last_name>
+          <first_name>Bobbi L.</first_name>
+          <job_title>Consultant</job_title>
+          <works_for>writer, Librarian by Day</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Hamilton</last_name>
+          <first_name>Matthew</first_name>
+          <job_title>IT Manager</job_title>
+          <works_for>Denver Public Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Freeman</last_name>
+          <first_name>Chris</first_name>
+          <job_title>City Librarian</job_title>
+          <works_for>Stockton-San Joaquin County Public Library ALA, PLA, CLA Finance Committee</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>A203 &#x96; Failcamp</title>
+      <description>This interactive session focuses on things that we&#x2019;ve tried that have failed, and what we&#x2019;ve learned from the experience. We don&#x2019;t often discuss our failures in libraryland, and frequently end up repeating the mistakes of our neighbors. Godfrey and Buckland discuss Second Life failures in academic libraries, Dawson talks about the failures of VoIP, and Booth looks at her experiences of using video as a chat reference tool. Bring your stories and share so that our lessons-learned knowledgebase grows!</description>
+      <speakers>
+        <speaker>
+          <last_name>Buckland</last_name>
+          <first_name>Amy</first_name>
+          <job_title>eScholarship</job_title>
+          <works_for>ePublishing &amp;amp; Digitization Coordinator, McGill University Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Godfrey</last_name>
+          <first_name>Krista</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>Memorial University of Newfoundland</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Dawson</last_name>
+          <first_name>Jan</first_name>
+          <job_title>Project Coordinator &amp;amp; Virtual Reference Librarian</job_title>
+          <works_for>Ask Ontario Knowledge Ontario</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Booth</last_name>
+          <first_name>Char</first_name>
+          <job_title>E-Learning Librarian</job_title>
+          <works_for>University of California, Berkeley</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Networking Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>A204 &#x96; Augmented Reality &amp;amp; Libraries</title>
+      <description>What is it and how can it be used in the information world? The Shanachies discuss what it is and illustrate some uses. Houghton-Jan describes an original SJPL project using augmented reality and other mobile locationbased tools to connect San Jose residents and visitors to rare and original local history materials. The library is creating walking tours of significant, high-foot-traffic areas of San Jose and connecting these sites with related rare photographs, directories, artifacts, original building plans, and oral histories. By going where the users are, the library has been able to greatly increase the access to and visibility of rare San Jose history materials and to bring history alive.</description>
+      <speakers>
+        <speaker>
+          <last_name>Geer</last_name>
+          <first_name>Jaap Van de</first_name>
+          <job_title>Delft Public Library</job_title>
+          <works_for>D</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Boekesteijn</last_name>
+          <first_name>Erik</first_name>
+          <job_title>founder and director Doklab</job_title>
+          <works_for>Doklab ShanachieTour</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Houghton</last_name>
+          <first_name>Sarah</first_name>
+          <job_title>Director</job_title>
+          <works_for>San Rafael Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A205 &#x96; Videocasting, Innovating, &amp;amp; Creating New Ideas</title>
+      <description>This panel talks about the most powerful communication tool: video. They discuss how videos can help libraries and information professionals to expand their consumer audience, e.g., fellow colleagues and library customers; how people turn to online video-sharing websites such as YouTube, Vimeo, and Ustream to stay current about their favorite topics, send videoresumes and analyze hot issues. During the last year, info pros (and others according to Pew reports) have increased their use of video-sharing websites to discuss the latest innovation trends, library-world news, library tours, advocacy campaigns, educational series about financial literacy, and more. Speakers highlight some powerful examples such as the &#x201C;Angry Librarian,&#x201D; developed to make a point about good public services; &#x201C;The Adventures of Super Librarian,&#x201D; about the many tasks and responsibilities of a public librarian; and Library 101, a video about librarianship in general. They talk about developing video channels and provide tips for innovating through videocasting.</description>
+      <speakers>
+        <speaker>
+          <last_name>Garcia-Febo</last_name>
+          <first_name>Loida</first_name>
+          <job_title>President</job_title>
+          <works_for>Information New Wave</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Porter</last_name>
+          <first_name>Michael</first_name>
+          <job_title>President</job_title>
+          <works_for>Library Renewal libraryman.com</works_for>
+        </speaker>
+        <speaker>
+          <last_name>King</last_name>
+          <first_name>David Lee</first_name>
+          <job_title>Digital Services Director</job_title>
+          <works_for>Topeka &amp;amp; Shawnee County Public Library and Publisher, davidleeking.com</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Geer</last_name>
+          <first_name>Jaap Van de</first_name>
+          <job_title>Delft Public Library</job_title>
+          <works_for>D</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Boekesteijn</last_name>
+          <first_name>Erik</first_name>
+          <job_title>founder and director Doklab</job_title>
+          <works_for>Doklab ShanachieTour</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>B201 &#x96; User-Centered Website Design</title>
+      <description>The first presentation provides practical advice for how to run a website redesign in a short time frame and using user-centered methods. It covers how to create goals for the project, scope the project, develop a project plan, ensure that everyone is on board with user research, as well as how to base decisions on research findings rather than opinion. Marquez discusses creating a new look and feel that was distinct from the previous site, implementing Blacklight, a relatively new discovery layer tool making the OPAC more alive and functional. He shares learnings from the redesign process using visual examples of wireframes and notes.</description>
+      <speakers>
+        <speaker>
+          <last_name>Teague-Rector</last_name>
+          <first_name>Susan</first_name>
+          <job_title>Web Design Project Librarian</job_title>
+          <works_for>North Carolina State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Ballard</last_name>
+          <first_name>Angie</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>North Carolina State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Marquez</last_name>
+          <first_name>Joe</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>Sonoma State University Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B202 &#x96; Customer Analysis: Developing Patron Personas</title>
+      <description>Any marketer or web designer will tell you that creating user personas is a great way to target your services, but just how do you do that? What are the steps involved, and how can we narrow the wide variety of people we serve down to 10 or so &#x201C;types&#x201D;? Through examples of step-by-step brainstorming and analysis, Koerber walks you through distilling anecdotal and objective information about your users into an appropriate number of patron personas. Utilize your own experience and understanding of your patrons to make tools to help you develop new programs, focus a marketing campaign, or redesign your website.</description>
+      <speakers>
+        <speaker>
+          <last_name>Koerber</last_name>
+          <first_name>Jennifer</first_name>
+          <job_title>Web Services Librarian</job_title>
+          <works_for>Boston Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>B203 &#x96; Applying User Experience (UX) Design</title>
+      <description>UX is for everyone. Hear how a public and an academic library are changing the way they relate to their patrons through this user-centric design perspective. Trainer discusses how a mid-size academic library is combining UX principles and cross-division collaboration to make its web presence pop. By bringing best practices to LibGuides and soliciting regular usability feedback, the libraries&#x2019; UX team has redesigned the OPAC, SFX menu, and the library website itself in anticipation of the university&#x2019;s move to Drupal. Blyberg&#x2019;s public library UX department constantly strives to maintain a digital strategy that is right for &#x201C;right now&#x201D; while anticipating future needs and trends. It &#x201C;embeds&#x201D; itself in all aspects of library activity, making departmental boundaries irrelevant.</description>
+      <speakers>
+        <speaker>
+          <last_name>Blyberg</last_name>
+          <first_name>John</first_name>
+          <job_title>Assistant Director for Innovation and User Experience</job_title>
+          <works_for>Darien Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Trainor</last_name>
+          <first_name>Cindi</first_name>
+          <job_title>Coordinator for Library Technology and Data Services</job_title>
+          <works_for>Eastern Kentucky University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Networking Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>B204 &#x96; Content Strategy and Writing for the Web</title>
+      <description>The process of how content and features make their way to and get removed from websites impacts their usability and usefulness. This session introduces concepts from the emerging field of content strategy and proposes a plan for assessing what's on your site. Gain insights and ideas for reorganizing your web efforts and communicating more clearly on the web.</description>
+      <speakers>
+        <speaker>
+          <last_name>Schmidt</last_name>
+          <first_name>Aaron</first_name>
+          <job_title>Principal</job_title>
+          <works_for>Influx Library User Experience &amp;amp; Publisher, walkingpaper.org</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B205 &#x96; How to Use Design Thinking to Enable Innovation in Your Workplace</title>
+      <description>Innovation and creativity are things we all want to apply in our lives, our jobs and our workplaces. But how do you translate high-level creative thinking and principles of innovation into a tactical action plan that makes a real difference? Join our speakers for a pragmatic session on how to apply the principles of design thinking to enable measurable improvements in customer service and information service delivery. Through the use of scenarios, they provide examples of how harnessing our passion for our work can translate into innovations in our jobs, all in the name of demonstrating clearly the value you and your information centre bring to your organization.</description>
+      <speakers>
+        <speaker>
+          <last_name>Silk</last_name>
+          <first_name>Kimberly</first_name>
+          <job_title>Data Librarian</job_title>
+          <works_for>Martin Prosperity Institute, University of Toronto</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Veffer</last_name>
+          <first_name>Jeffrey</first_name>
+          <job_title>Partner</job_title>
+          <works_for>v, Brandsential</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>C201 &#x96; Personal Content Management</title>
+      <description>Not only are our organizations challenged in managing their content, but we are too. As information professionals we love to gather and often keep lots of information and content. This session covers some new tools and strategies for digital preservation on an individual scale&#x2014;something useful for us, but also for our clients!</description>
+      <speakers>
+        <speaker>
+          <last_name>Price</last_name>
+          <first_name>Gary</first_name>
+          <job_title>Co-Founder</job_title>
+          <works_for>INFODocket &amp;amp; FullTextReports</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C202 &#x96; Cloud Computing: Trend Watch for Libraries</title>
+      <description>One of the major transitions in technology involves increased adoption of computing models that involve use of hardware and software outside the library. It&#x2019;s a seminal technology change as important as the shift from mainframes to client/server architectures. We&#x2019;re hearing more about application service providers, software-as-a-service, storage-as-a-service, and platform-as-a-service. How does OCLC&#x2019;s global WorldCat platform fit into the mix? What is the difference between public and private clouds? What are the issues for libraries in the deployment of cloud computing in terms of cost, efficiency, privacy, control, and security? Marshall Breeding clarifies the concepts of cloud computing with examples of interest to libraries.</description>
+      <speakers>
+        <speaker>
+          <last_name>Breeding</last_name>
+          <first_name>Marshall</first_name>
+          <job_title>Independent Consultant and Founder of Library Technology Guides</job_title>
+          <works_for>Founder of Library Technology Guides</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>C203 &#x96; Think Mobile: Ebook Collections</title>
+      <description>The exploding popularity of handheld devices challenges librarians to incorporate mobile perspectives and think differently about existing practices. Likewise, the mainstream adoption of ebooks presents new opportunities for libraries to refresh established routines and update collections with mobile in mind. This talk takes a closer look at ebook considerations in the mobile environment and delivers recommendations for developing and managing mobile ebook collections. Topics include selection, formats, devices, and mobile platforms; acquisition models and workflows; cataloging best practices for mobile ebooks, access, management, and more.</description>
+      <speakers>
+        <speaker>
+          <last_name>Thomas</last_name>
+          <first_name>Lisa Carlucci</first_name>
+          <job_title>Digital Services Librarian</job_title>
+          <works_for>Southern Connecticut State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Tomren</last_name>
+          <first_name>Holly</first_name>
+          <job_title>Head of Monograph</job_title>
+          <works_for>Electronic Resources &amp;amp; Metadata Cataloging, University of California Irvine</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Networking Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>C204 &#x96; Patron-Driven Ebook Acquisition</title>
+      <description>UC Irvine Libraries set about to develop a pilot project for patron-driven acquisition (PDA) of ebooks with the goal of saving money in the collections budget. The pilot was intended to allow ebooks to be purchased for current-year imprints as a means of replacing a portion of the traditional print approval plan acquisitions. As the various e-book provider models were investigated, and as we developed the framework within which the pilot needed to operate, we were met with seemingly&#xA0; insurmountable obstacles at every turn: from the publishers&#x2019; reluctance to release print and electronic&#xA0; books simultaneously &#x2014; or at least within a specified embargo period &#x2014; to the difficulty of integrating a PDA program with the print approval plan to avoid purchasing content in duplicate formats. We would like to share our experiences in the hopes that other libraries will join our efforts to convince e-book publishers and providers to make a patron-driven acquisition of ebooks program more viable for libraries which wish to replace their traditional print approval plans and better serve their user population.</description>
+      <speakers>
+        <speaker>
+          <last_name>Sibert</last_name>
+          <first_name>Lisa</first_name>
+          <job_title>Electronic Resources Acquisitions Librarian</job_title>
+          <works_for>University of California Irvine</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Novak</last_name>
+          <first_name>John</first_name>
+          <job_title>Research Librarian for Comparative Literature</job_title>
+          <works_for>Critical Theory and English, University of California Irvine</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Powell</last_name>
+          <first_name>Keith</first_name>
+          <job_title>Head</job_title>
+          <works_for>Acquisitions, University of California Irvine</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Tomren</last_name>
+          <first_name>Holly</first_name>
+          <job_title>Head of Monograph</job_title>
+          <works_for>Electronic Resources &amp;amp; Metadata Cataloging, University of California Irvine</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C205 &#x96; Libraries, Ebooks &amp;amp; Econtent: Conversations</title>
+      <description>This session starts with a short report on an experiment with and comparison of e-readers. The project compared the Amazon Kindle, Sony Reader Touch Edition, and e-reader Apps on the Apple iTouch and experimented with NetLibrary ebooks and Springer ebooks. A facilitated discussion follows and looks at the issues, challenges, and real-world solutions out there today and speculates on what might happen in the next few years.</description>
+      <speakers>
+        <speaker>
+          <last_name>Mairn</last_name>
+          <first_name>Chad</first_name>
+          <job_title>Information Services Librarian</job_title>
+          <works_for>St. Petersburg College</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Hoya</last_name>
+          <first_name>Billy</first_name>
+          <job_title>Program Coordinator II</job_title>
+          <works_for>University of Houston Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Gola</last_name>
+          <first_name>Christina H.</first_name>
+          <job_title>Head of Library Instruction</job_title>
+          <works_for>University of Houston Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>D201 &#x96; Cloud Computing's Impact on Services</title>
+      <description>This session looks at the impact cloud computing technologies and services are having &#x2014; and will have &#x2014; on library services, staff, and users. From Amazon&#x2019;s EC2 service to web services and linked data provided by and for libraries, this presentation provides an overview of technologies and techniques that are enabling entirely new ways of creating and using library services.</description>
+      <speakers>
+        <speaker>
+          <last_name>Tennant</last_name>
+          <first_name>Roy</first_name>
+          <job_title>Senior Program Officer</job_title>
+          <works_for>Research, OCLC Online Computer Library Center, Inc.</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D202 &#x96; Genie or Agile? Innovation, iPhones, &amp;amp; Paging!</title>
+      <description>University of Maryland has been using the Agile software development approach to rapidly develop and deploy a variety of innovative IT applications in the library. Chang describes projects that include the Wiimote interactive whiteboard, Flash-based applications and websites, mobile computing, and virtual worlds. Blyberg describes Darien&#x2019;s newest open source and freely available patron notification system that lets users page librarians with a single tap of a touch screen. Pages can be configured to come in on staff PCs, iPhones, iPad touches, iPads, or anything that runs a Growl client, ensuring that someone will answer the call.</description>
+      <speakers>
+        <speaker>
+          <last_name>Chang</last_name>
+          <first_name>May</first_name>
+          <job_title>Assistant Director</job_title>
+          <works_for>LibraryTechnology, East Carolina University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Blyberg</last_name>
+          <first_name>John</first_name>
+          <job_title>Assistant Director for Innovation and User Experience</job_title>
+          <works_for>Darien Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>D203 &#x96; Designing New Information Streams for Libraries: Media-Rich Services With iTunes</title>
+      <description>With the rise of an ebooks format and the likelihood that ebooks will be distributed in existing media channels, it has become increasingly important for libraries to participate in our user's common information streams. iTunes is one of these common information streams, but did you know that iTunes can be used to distribute all kinds of media files, including .pdfs? With this capability in mind, MSU Libraries has been utilizing Apple's iTunes software as a content delivery platform to distribute files and university research content. In this session, we'll take you through some working applications from MSU using iTunes, show you how to build iTunes XML that can create a library media landing page, and talk through some of the lessons learned. Come learn how this cross-platform and free software can help you deliver content to your patrons in new and engaging ways.</description>
+      <speakers>
+        <speaker>
+          <last_name>Clark</last_name>
+          <first_name>Jason A.</first_name>
+          <job_title>Digital Initiatives Librarian</job_title>
+          <works_for>Head of Digital Access and Web Services, Montana State University Libraries</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Parks</last_name>
+          <first_name>Bonnie</first_name>
+          <job_title>Technology and Catalog Librarian</job_title>
+          <works_for>Wilson W. Clark Memorial Library, University of Portland</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Networking Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>D204 &#x96; Introducing InfoQuest: Mobile Reference in a Changing Library</title>
+      <description>Launched July 16, 2009, as a pilot text reference project, today InfoQuest is going strong, as patrons of more than 50 libraries from all over the U.S. are able to text a question on their mobile phones to a real, live librarian. It is the first collaborative text messaging service, sponsored by Alliance Library System of East Peoria, Illinois, and Web Clarity Software running on the SMS reference software Altarama provides and Gmail. Hear the lessons they&#x2019;ve learned with this service during the past 2 years.</description>
+      <speakers>
+        <speaker>
+          <last_name>Schoenenberger</last_name>
+          <first_name>Ann</first_name>
+          <job_title>Digital Librarian</job_title>
+          <works_for>Kenton County Public Library SCORE Chapter-34; Foundation Center</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Owens</last_name>
+          <first_name>Ann S</first_name>
+          <job_title>Information/eResources/Telephone Services Librarian</job_title>
+          <works_for>Sacramento Public Library</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Schmidt</last_name>
+          <first_name>Thomas</first_name>
+          <job_title>Librarian</job_title>
+          <works_for>Sacramento Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D205 &#x96; Learning Commons: Service as a Space</title>
+      <description>In 2008/2009, Western Washington University Libraries created an online learning space using Drupal for students, faculty, and staff to gather, discuss ideas, and share and discuss their creative work. The result has been a unique and lively online space named Viking Village. It has been readily adopted by students, but not by faculty and staff. Peterson discusses the project, the results of a recent assessment, and the place of this space in their service offerings.</description>
+      <speakers>
+        <speaker>
+          <last_name>Peterson</last_name>
+          <first_name>Andy</first_name>
+          <job_title>Head of Library IT</job_title>
+          <works_for>Western Washington University Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Rip Van Winkle's Libraries in 2510</title>
+      <description>Where are libraries going, not just in 3-5 years, but in 500 years? Join our visionary panel; hear their insights then stretch your imagination to see if you can predict what info pros will be doing in 500 years, what new and exciting tools we&#x2019;ll be using, programs and services we&#x2019;ll be pursuing, relationships we&#x2019;ll be building, and lots more. Check out the interview that sparked this program (&lt;strong&gt;&lt;a href="http://www.vimeo.com/11440203" target="_blank"&gt;http://www.vimeo.com/11440203&lt;/a&gt;&lt;/strong&gt;) and create a video/or audio track of a song you would like to contribute to this program.</description>
+      <speakers>
+        <speaker>
+          <last_name>Ingles</last_name>
+          <first_name>Ernie</first_name>
+          <job_title>Vice-Provost &amp;amp; Chief Librarian</job_title>
+          <works_for>University of Alberta</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Boekesteijn</last_name>
+          <first_name>Erik</first_name>
+          <job_title>founder and director Doklab</job_title>
+          <works_for>Doklab ShanachieTour</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Geer</last_name>
+          <first_name>Jaap Van de</first_name>
+          <job_title>Delft Public Library</job_title>
+          <works_for>D</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Abram</last_name>
+          <first_name>Stephen</first_name>
+          <job_title>Principal</job_title>
+          <works_for>Lighthouse Consulting Inc.</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>OPENING KEYNOTE &#x97; Planning &amp;amp; Designing for Attention</title>
+      <description>As an innovation advocate, creative culture researcher and connector, Turner has worked inside the walls of Nike, Starbucks, and The Gap, as well as with companies such as Apple, IDEO and CEOs for Cities. Her focal point is in mapping strategic pictures of today&#x2019;s changing world interjecting compelling solution-driven content and anecdotes of success. In today&#x2019;s interactive online environment there are many opportunities to influence decision making, grab attention and add value. Learn about strategies that will work in library environments and have a positive impact on your community.</description>
+      <speakers>
+        <speaker>
+          <last_name>Turner</last_name>
+          <first_name>Jody</first_name>
+          <job_title>Trend &amp;amp; Innovation Specialist</job_title>
+          <works_for>Founder, Culture of Future</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>A301 &#x96; Creating Partnerships That Engage Your Community</title>
+      <description>What would it look like if the stories of the communities that you serve were told by the members and residents of the community? How can a library provide support and leadership for bringing forward an online centerpiece that inspires community residents and workers to explore, share, and connect with what people express as meaningful about our communities? Columbus Metropolitan Library achieved this vision through valuable partnership with collaborator and sponsor WOSU Public Media. Columbus Metropolitan Library and WOSU Public Media developed and provide Columbus, Ohio, with a web portal at www.columbusneighbor hoods.org that encourages people to contribute images, share video, tell stories, and categorize this content by neighborhood areas. Columbus Metropolitan Library is pleased to present this project and the insights learned in an effort to connect friends, coworkers, customers, community contacts, and anyone who has interest in the change within the Columbus communities!</description>
+      <speakers>
+        <speaker>
+          <last_name>Davis</last_name>
+          <first_name>Samuel</first_name>
+          <job_title>Application Solutions Architect</job_title>
+          <works_for>Digital Services, Columbus Metropolitan Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A302 &#x96; Engaging Customers With Twitter</title>
+      <description>This session highlights the use of Twitter to enrich customer experience and engage them in further activities. Carr shares how Twitter informs the political community, how it is perceived by customers, and more.</description>
+      <speakers>
+        <speaker>
+          <last_name>Carr</last_name>
+          <first_name>Emily</first_name>
+          <job_title>Legal Reference Specialist</job_title>
+          <works_for>Public Services Division, Law Library of Congress</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Reception - In the Exhibit Hall</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>A303 &#x96; Engaging Evangelists &amp;amp; External Advocates for Library Support</title>
+      <description>Colorado libraries are facing shrinking budgets, failed elections, and three 2010 ballot initiatives that will slash public service funding by an additional 10-25% statewide. Dire times call for a big, hairy, audacious goal (or a &#x201C;BHAG,&#x201D; if you will). The BHAG Public Library Advocacy Initiative (bhagColorado.blogspot.com) seeks to spark conversation and awareness about the transformative power of public libraries while generating support for public library funding in every Colorado community. Learn how&lt;br&gt;the BHAGers recruited, trained, and deployed external library advocates (folks who love libraries but don&#x2019;t collect a paycheck from the library) across 114 library systems. Their inspiration: OCLC&#x2019;s &#x201C;From Awareness to Funding.&#x201D; Their tools: cloud computing, blogging, YouTube, social media, good old-fashioned storytelling, and pure audacity. Get some insights and ideas about ways to engage supporters within your community.</description>
+      <speakers>
+        <speaker>
+          <last_name>Walker</last_name>
+          <first_name>Aspen</first_name>
+          <job_title>Library Manager</job_title>
+          <works_for>Castle Pines &amp;amp; Lone Tree Libraries, Douglas County Libraries SaveLibraries.org, Colorado Association of Libraries</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>A304 &#x96; The Community: Most Important Part of Our Collection</title>
+      <description>The mission of DOK is to become and remain the most advanced library&#xA0; in the world. Hear how this visionary library partners and collaborates using imagination, creativity, technical innovation, and advancing scientific&#xA0; understanding, to be an indispensable source of inspiration for its members, visitors, and partners in the city of Delft, in the Netherlands, and in the world.</description>
+      <speakers>
+        <speaker>
+          <last_name>Boekesteijn</last_name>
+          <first_name>Erik</first_name>
+          <job_title>founder and director Doklab</job_title>
+          <works_for>Doklab ShanachieTour</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Geer</last_name>
+          <first_name>Jaap Van de</first_name>
+          <job_title>Delft Public Library</job_title>
+          <works_for>D</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>B301 &#x96; Cool Tools for Webmasters</title>
+      <description>Our popular speakers are back with new tools to make creating and managing your library&#x2019;s web presence easier, including open source tools and cloud computing resources. Hop on board for a tour of some great new tools for measuring website use, and the impact of a library&#x2019;s social media efforts, and more. Check out some of the amazing new data visualization tools to make your website content and reports pop. Speakers highlight tools for people who are just starting out with web publishing and populating social media profiles as well as some advanced applications for webmasters who like to dig their teeth into a bit of code.</description>
+      <speakers>
+        <speaker>
+          <last_name>Cervone</last_name>
+          <first_name>Frank</first_name>
+          <job_title>Managing Partner</job_title>
+          <works_for>Cervone and Associates</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Fichter</last_name>
+          <first_name>Darlene</first_name>
+          <job_title>GovInfo Librarian</job_title>
+          <works_for>University of Saskatchewan Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B302 &#x96; Internet Tools &amp;amp; Services to Enhance Learning &amp;amp; Inspire Participation</title>
+      <description>Web 2.0 tools and services clearly have matured and are nearing ubiquity for most 21st-century computer users. They present technologies accompanied by an ever-increasing wave of information, leaving many of us overwhelmed. So, how can libraries add measurable value to what is consumed via the internet while enhancing lifelong learning and inspiring involvement in our new and fascinating &#x201C;Age of Participation?&#x201D; Mairn demonstrates interactively a variety of internet tools and services that can be incorporated anywhere online and/or in physical library spaces and highlights strategies to help provide more visibility to library resources. He discusses ways to help generate practical ideas for adding value, including creating useful Twitter backchannels to inspire participation before, during, and after a presentation; starting Google Waves to communicate and share ideas; having actual voice conversations with groups in social networks; sharing your desktop screen so that you can show off your library&#x2019;s online tools over the internet; hosting live music concerts, gaming activities, and other library events; affixing QR (Quick Response) codes to book spines, ID badges, and doors to help guide mobile library users in your physical spaces to come visit your digital library space; and more.</description>
+      <speakers>
+        <speaker>
+          <last_name>Mairn</last_name>
+          <first_name>Chad</first_name>
+          <job_title>Information Services Librarian</job_title>
+          <works_for>St. Petersburg College</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Reception - In the Exhibit Hall</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>B303 &#x96; Best Free Web Stuff for Broke Libraries</title>
+      <description>Many libraries don&#x2019;t have dedicated IT staff on site. We all get by as resident technology experts. This session is for those libraries struggling to provide innovative web and technology services with little resources to devote to staff, software, or hardware. The buzz about groundbreaking library technology can sometimes seem impossible to implement in smaller, poorer, and under-technology-staffed libraries. But we too can offer excellent online services to our users! Take advantage of the quick&lt;br&gt;and free services that any library can add to its website, mobile services, and public and staff computers with minimal time or expertise. This session covers up-to-the-moment easy steps that libraries can take to improve their websites with ease. If your library has no money for services, less staff time than you did last year, and still wants to have a substantial technology presence for your customers, then this is the session for you!</description>
+      <speakers>
+        <speaker>
+          <last_name>Houghton</last_name>
+          <first_name>Sarah</first_name>
+          <job_title>Director</job_title>
+          <works_for>San Rafael Public Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>B304 &#x96; Are Text Analytics in Our Future?</title>
+      <description>Librarians have been adding value to search, content management, and other information technology applications for a long time through the development and adaptation of traditional library classification schemas and/or taxonomies. In recent years, however, the development of text analytic software with its core capabilities of categorization, entity and fact extraction, and summarization has been opening up new and greater possibilities for enhancing a whole range of information applications. Hear about the tools available, their implications for libraries, and using the lessons learned from two recent projects. Reamy covers the range of issues and techniques that librarians need to learn if they are going to successfully adapt their traditional librarians&#x2019; skills to the new world of text analytics.</description>
+      <speakers>
+        <speaker>
+          <last_name>Reamy</last_name>
+          <first_name>Tom</first_name>
+          <job_title>Chief Knowledge Architect</job_title>
+          <works_for>KAPS Group</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>C301 &#x96; Using Social Computing Tools to Build Customer Relationships</title>
+      <description>The first presentation describes the use of social media platforms to enforce effective change management and increase the use of information across the organization. Browne discusses how collaboration tools can improve employee productivity, what types of tools are best suited for different institutions, and shares examples from the ThinkFOOD! Information Caf&#xE9;, which supports knowledge sharing and cross-business unit collaboration in her organization. When positioning the larger Qualcomm library within the organization, Bornheimer, our second speaker, focuses less on a laundry list of our content and services and more on how the groups and divisions within the organization are actually using the services. The wealth of new tech tools allows her to parse library usage data with more granularity and serve that same data back to clients in innovative ways. Hear about her efforts to use wikis, blogs, microblogging and other collaborative tools as vehicles for sharing data with clients, and how this has benefited libraries and their clientele.</description>
+      <speakers>
+        <speaker>
+          <last_name>Browne</last_name>
+          <first_name>Melanie</first_name>
+          <job_title>Manager</job_title>
+          <works_for>Digital Research, Maple Leaf Foods</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Bornheimer</last_name>
+          <first_name>Bee</first_name>
+          <job_title>Librarian</job_title>
+          <works_for>Qualcomm Library, Qualcomm Inc.</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C302 &#x96; Value-Added Research</title>
+      <description>Many corporate librarians use specialized clipping and alerting services to deliver value through a tangible, pragmatic information product. Daily information alerts that are tailored to individual requestors&#x2019; interests delight constituents on a daily basis, meeting their needs by playing an active, consistent role in their success. Affelt details how e-book readers such as the Amazon Kindle and the iPhone can help librarians quickly and easily look for, clip, and archive critical information, explore techniques for streamlining and organizing information through the use of these devices so that it can be delivered to requestors when and where it is needed and explains the process of integrating content from librarians&#x2019; e-book readers to requestors&#x2019; smartphones. Lee discusses going beyond media monitoring to provide insight and analysis. Zhu discusses discovery tools and processes used to put information into context.</description>
+      <speakers>
+        <speaker>
+          <last_name>Affelt</last_name>
+          <first_name>Amy</first_name>
+          <job_title>Director</job_title>
+          <works_for>Database Research, Compass Lexecon</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Lee</last_name>
+          <first_name>Daniel</first_name>
+          <job_title>Director</job_title>
+          <works_for>Knowledge Services, Navigator Ltd</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Zhu</last_name>
+          <first_name>Qin</first_name>
+          <job_title>Information Developer</job_title>
+          <works_for>HP Labs</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Reception - In the Exhibit Hall</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>C303 &#x96; Developing Critical Thinking Skills for Research</title>
+      <description>Search engines offer a starting point for the initial phase of research and are an effective tool for both librarians and consumers. However, patrons often believe the search engine box is an information oracle and trust the &#x201C;magical&#x201D; blue links that appear as authoritative sources. This interviewstyle session discusses a wide variety of new search tools that are available to help patrons develop applicable critical thinking skills. Using realworld examples from their enterprise, speakers provide tips on how to best educate patrons to identify credible search results and dangerous pitfalls, ways to promote a &#x201C;healthy skepticism&#x201D; approach to web research, and the benefits to providing patrons with a set of search engine best practices.</description>
+      <speakers>
+        <speaker>
+          <last_name>Smith</last_name>
+          <first_name>Kendra</first_name>
+          <job_title>Microsoft Librarian and Program Manager</job_title>
+          <works_for>Microsoft</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Huston</last_name>
+          <first_name>Kevan</first_name>
+          <job_title>Microsoft Library Program Manager</job_title>
+          <works_for>Microsoft Corporation</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>C304 &#x96; Digital Librarianship: Open Access &amp;amp; Web 2.0</title>
+      <description>The Smithsonian/NASA ADS is one of the pioneers of open access bibliographic databases. Operated under a NASA grant, it has grown from an indexing/abstracting database into a sophisticated, highly customizable digital library available worldwide. Since the advent of online editions of journals, abstracts are loaded into the ADS on or before the publication date of articles, with the full journal text available to subscribers. Older articles and microfilm have been scanned and made available. Speakers share their challenges, solutions, and lessons learned for others struggling with digital collections. LeBlanc discusses a departmental wiki and how it is evolving with other tools like blogs, discussion forums, and a video sharing tool. He shares tips and tricks on the adoption and training of these tools and others like Twitter and RSS. He highlights the library&#x2019;s positioning as a key player in a organization who is implementing social media to become a more collaborative and knowledge sharing organization.</description>
+      <speakers>
+        <speaker>
+          <last_name>Henneken</last_name>
+          <first_name>Edwin</first_name>
+          <job_title>Senior IT Specialist Smithsonian/NASA Astrophysics Data System</job_title>
+          <works_for>Smithsonian Astrophysical Observatory</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Thompson</last_name>
+          <first_name>Donna</first_name>
+          <job_title>Librarian</job_title>
+          <works_for>Smithsonian Astrophysical Observatory NASA Astrophysics Data System</works_for>
+        </speaker>
+        <speaker>
+          <last_name>LeBlanc</last_name>
+          <first_name>Jeremie</first_name>
+          <job_title>Social Media Community Manager</job_title>
+          <works_for>Communications Community Office, Treasury Board Secretariat of Canada Natural Resources Canada Library</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Coffee Break - A Chance to Visit the Exhibits</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>D301 &#x96; Shifting Organizations</title>
+      <description>McMaster University Library was the first Canadian university library to receive the Association of College and Research Libraries&#x2019; Excellence in Academic Libraries Award in 2008. Achieving excellence and moving into the digital, collaborative environment has, and will continue, to demand significant changes in how library staff work with students, faculty, and each other. Jones has worked with a number of public libraries in dealing with the changes in how they are working with stakeholders and the community. Some of the &#x201C;shifts&#x201D; that libraries are making in how they are organized is seismic, but the organization charts of today and tomorrow must be significantly different than the organizational designs of yesterday. Hear top tips and strategies for making changes in academic and public library environments to organize and shift the focus to work demanded for tomorrow&#x2019;s success.</description>
+      <speakers>
+        <speaker>
+          <last_name>Jones</last_name>
+          <first_name>Rebecca</first_name>
+          <job_title>Partner</job_title>
+          <works_for>Dysart &amp;amp; Jones Associates</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Trzeciak</last_name>
+          <first_name>Jeff</first_name>
+          <job_title>University Librarian</job_title>
+          <works_for>McMaster University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D302 &#x96; Tips, Tricks, &amp;amp; Workflows for Managing Digital Resources</title>
+      <description>Digital resources, whether they are licensed from publishers or generated locally, have many quirks. As these resources increase in library collections, librarians must adapt their workflows accordingly. Creech and McElroy address the staff training needs, and provide workflow tips and tools for licensed digital resources from the perspective of academic libraries working alone and as a part of purchasing consortia. Kemp discusses the same for locally created digital collections.</description>
+      <speakers>
+        <speaker>
+          <last_name>Creech</last_name>
+          <first_name>Anna L.</first_name>
+          <job_title>Electronic Resources Librarian</job_title>
+          <works_for>University of Richmond</works_for>
+        </speaker>
+        <speaker>
+          <last_name>McElroy</last_name>
+          <first_name>Emily</first_name>
+          <job_title>Head of Collection Development &amp;amp; Scholarly Communication</job_title>
+          <works_for>Oregon Health &amp;amp; Science University</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>Lunch Reception - In the Exhibit Hall</title>
+      <description/>
+      <speakers/>
+    </session>
+    <session>
+      <title>D303 &#x96; Getting to Yes With Decision-Makers</title>
+      <description>Crafting an effective library strategy isn&#x2019;t just about the points in your plan. In the competitive environment of our institutions, you need to know what senior administrators value and expect in order to get your plans implemented. In this presentation, learn how senior administrators look at library issues and hear some strategies for making a compelling case.</description>
+      <speakers>
+        <speaker>
+          <last_name>Cervone</last_name>
+          <first_name>Frank</first_name>
+          <job_title>Managing Partner</job_title>
+          <works_for>Cervone and Associates</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Jones</last_name>
+          <first_name>Rebecca</first_name>
+          <job_title>Partner</job_title>
+          <works_for>Dysart &amp;amp; Jones Associates</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>D304 &#x96; SPLAT: Spreading Innovation &amp;amp; Ideas</title>
+      <description>Libraries are never short on innovation, especially when budgets are lean. How can staff stay on top of the latest library trends, and empower individuals to think &#x201C;lean and mean&#x201D; when times demand creativity? One solution, developed in Idaho during a summit on developing services for digital natives, was to create a Special Projects Library Action Team (SPLAT). SPLAT members act in the crow&#x2019;s nest capacity of technological change. They search and share innovative ideas, leads on projects, and experiment&lt;br&gt;in social media statewide; vet ideas; and bring ideas back to the local level. Supported by the Idaho Commission for Libraries (ICFL), the group has a statewide focus, and members hold a wide range of perspectives and library experiences. Two SPLAT members present methods you can bring back to your communities to encourage collaboration, innovation, and creativity that will benefit your greater community.</description>
+      <speakers>
+        <speaker>
+          <last_name>Cordova</last_name>
+          <first_name>Memo</first_name>
+          <job_title>Assistant Professor/Librarian</job_title>
+          <works_for>Boise State University</works_for>
+        </speaker>
+        <speaker>
+          <last_name>Vecchione</last_name>
+          <first_name>Amy</first_name>
+          <job_title>Assistant Professor/Digital Access Librarian</job_title>
+          <works_for>Head Digital Access Team, Digital Access, Boise State University Idaho Library Associaton</works_for>
+        </speaker>
+      </speakers>
+    </session>
+    <session>
+      <title>CLOSING KEYNOTE &#x97; Adding Value Through Visualization</title>
+      <description>We have always said that a picture is worth a thousand words, and when we can represent information with visual illustrations we immediately understand the context and absorb the ideas. The ability to transfer insights and knowledge more quickly certainly adds value to information professionals. Lawley discusses visualization tools and techniques that will definitely add value to your environment.</description>
+      <speakers>
+        <speaker>
+          <last_name>Lawley</last_name>
+          <first_name>Elizabeth Lane</first_name>
+          <job_title>Director</job_title>
+          <works_for>RIT Lab for Social Computing, Rochester Institute of Technology</works_for>
+        </speaker>
+      </speakers>
+    </session>
+  </sessions>
+</conference>
