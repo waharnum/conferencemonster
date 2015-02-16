@@ -15,5 +15,14 @@ doc.xpath("//session").each do | session |
 	curr_title = session.xpath("title").inner_html
 	curr_description = session.xpath("description").inner_html
 	current_session = Session.create(:title => curr_title, :description => curr_description, :conference_id => conference.id)
+	session.xpath("speakers/speaker").each do | speaker |
+		curr_speaker_first_name = speaker.xpath("first_name").inner_html
+		curr_speaker_last_name = speaker.xpath("last_name").inner_html
+		Speaker.where(:first_name => curr_speaker_first_name, :last_name => curr_speaker_last_name).first_or_create.sessions << current_session
+	end
 end
+
+# Speaker.where(:first_name => "Alan", :last_name => "Harnum").first_or_create.sessions
+# Speaker.where(:first_name => "Alan", :last_name => "Harnum").first_or_create.sessions << Session.find(129)
+
 
