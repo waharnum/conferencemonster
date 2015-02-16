@@ -15,6 +15,7 @@ class XMLSeeder
 	def seed_from_xml
 		conference = Conference.find_by title: @conference_title
 		doc = Nokogiri::XML(open(@source_file))
+		doc.encoding = 'utf-8'
 		doc.xpath("//session").each do | session |
 			curr_title = session.xpath("title").inner_html
 			curr_description = session.xpath("description").inner_html
