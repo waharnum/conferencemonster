@@ -86,6 +86,12 @@ class Speaker
     @job_title = job_title    
     @works_for = works_for
   end
+  def last_name
+    name.split.last
+  end
+  def first_name
+    name.split[0...-1].join(' ')
+  end
 end
 
 class Session
@@ -129,7 +135,8 @@ class Conference
           xml.speakers {
             s.speakers.each do |speaker|
               xml.speaker{
-                xml.name speaker.name                
+                xml.last_name speaker.last_name
+                xml.first_name speaker.first_name                
                 xml.job_title speaker.job_title
                 xml.works_for speaker.works_for
               } 

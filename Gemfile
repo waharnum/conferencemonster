@@ -35,6 +35,9 @@ gem 'unicorn'
 # rails_admin for managing data
 gem 'rails_admin'
 
+# seedbank for populating data using the scraper
+gem 'seedbank'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
