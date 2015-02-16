@@ -1,6 +1,6 @@
 <h1><%= @speaker.name %></h1>
 <ul>
 <% @speaker.sessions.each do | session | %>
-	<li><%= link_to session.title, session %>, <%= session.conference.title =%></li>
+	<li><%= link_to session.title, session %>, <%= link_to session.conference.title, session.conference =%></li>
 	<% end %>	
 </ul>

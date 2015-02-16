@@ -1,5 +1,10 @@
-<h1><%= @session.title %></h1>
+<h1><%= @session.title %>, <%= link_to @session.conference.title, @session.conference %></h1>
+
 <ul>
+<h2>Description</h2>
+<%= @session.description %>
+
+<h3>Speakers</h3>
 <% @session.speakers.each do | speaker | %>
 	<li><%= link_to speaker.name, speaker %></li>
 	<% end %>	
